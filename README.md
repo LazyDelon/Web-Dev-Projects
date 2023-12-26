@@ -50,7 +50,13 @@
 
 &nbsp; <img src="./Images/vs-code-get-extension.png" alt="Get Started"/>
 
+#### 5. Open in Browser
 
+&nbsp; <img src=".Images/vs-code-open-in-browser.png" alt="Get Started"/>
+
+#### 6. View the Page Using Developer Tools
+
+&nbsp; <img src=".Images/developer-tools-elements-tab.png" alt="Get Started"/>
 
 ➤  **資料來源：**[**使用 Visual Studio Code 開始進行網頁程式開發**](https://learn.microsoft.com/zh-tw/training/modules/get-started-with-web-development/) 
 
