@@ -46,6 +46,12 @@
 
 &nbsp; <img src="./Images/vs-code-explorer-view.png" alt="Get Started"/>
 
+#### 4. Install Extension Modules or Kits
+
+&nbsp; <img src="./Images/vs-code-explorer-view.png" alt="Get Started"/>
+
+
+
 ➤  **資料來源：**[**使用 Visual Studio Code 開始進行網頁程式開發**](https://learn.microsoft.com/zh-tw/training/modules/get-started-with-web-development/) 
 
 ## 🌱 Quickstart - HTML Tag Structure
