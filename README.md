@@ -117,7 +117,7 @@
 ```
 
 
-### HTML5 SEO Semantic Layout Section
+#### 1. HTML5 SEO Semantic Layout Section
 
 **There are many new semantic tags (semantic elements) in the HTML5 standard, which allow web pages to create more semantically structured content, helping search engines and developers to more clearly interpret the structure of web pages, so making good use of HTML5 semantic tags can also Enhance the SEO (search engine optimization) of web pages.**
 
