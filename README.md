@@ -117,7 +117,7 @@
 ```
 
 
-### Semantic
+### Semantic Element
 
 &nbsp; <img src="./Images/Semantic Element.gif" alt="Semantic Element"/>
 
