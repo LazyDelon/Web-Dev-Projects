@@ -28,7 +28,7 @@
 
 ### Create a new folder for your website
 
-1. 打開 Visual Studio Code。
+1. Open Visual Studio Code。
 
 	當您開啟 Visual Studio Code 時，〔歡迎〕頁面會隨即開啟。  
  	請注意，您可以在 〔開始〕清單中建立新檔案或開啟資料夾。
