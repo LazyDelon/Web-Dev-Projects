@@ -13,9 +13,7 @@
 
 HTML5 is the fifth revised version of HTML. The standard was completed by W3C in October 2014.
 
-Broadly speaking, HTML5 refers to a set of technology combinations that include HTML, CSS and JavaScript. These three technologies have also been innovated, with the purpose of reducing the need for plug-ins in web browsers, such as: Adobe Flash, Microsoft Silverlight and Oracle JavaFX requirements, and provide a more set of standards that can effectively enhance network applications.
-
-廣義上來說，HTML5是指包含了HTML、CSS和JavaScript的一套技術組合，這三種技術也都有了創新，目的在於希望能夠減少網頁瀏覽器對於外掛程式的需要，例如：Adobe Flash、Microsoft Silverlight與Oracle JavaFX的需求，並且提供更多能有效加強網路應用的標準集。
+Broadly speaking, HTML5 refers to a set of technology combinations that include HTML, CSS and JavaScript. These three technologies have also been innovated, with the purpose of reducing the need for plug-ins in web browsers, such as: Adobe Flash, Microsoft Silverlight. And provide more standards sets that can effectively enhance network applications.
 
 ➤  **資料來源：** [**維基百科**](https://zh.wikipedia.org/zh-tw/HTML5)   
 
