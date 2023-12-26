@@ -127,25 +127,25 @@
 
 #### 2. HTML5 Web Storage
 
-HTML5 provides a technology that can store data on the client side, which is divided into "Local Storage" and "Session Storage". The difference between the two is：
+**HTML5 provides a technology that can store data on the client side, which is divided into "Local Storage" and "Session Storage". The difference between the two is：**
 
-* Local Storage：can store data across pages, and the data will not disappear when the page is closed (for example: some website forms will still remember the information entered before when we close and reopen them halfway through filling in the form)
+* **Local Storage：can store data across pages, and the data will not disappear when the page is closed (for example: some website forms will still remember the information entered before when we close and reopen them halfway through filling in the form)**
 
-* Session Storage: Data cannot be stored across pages. The data will disappear when the page is closed.
+* **Session Storage: Data cannot be stored across pages. The data will disappear when the page is closed.**
 
-| Parameters | Local Storage | Session Storage | 
+| **Parameters** | **Local Storage** | **Session Storage** | 
 | ---- | ---- | ---- | 
-| Capacity | 10 Mb | 5 Mb | 
-| Browser | HTML5 | HTML5 | 
-| Accessible from | Any Window | Same tab |
-| Expires | Never | On tab close |
-| Storage location | Browser only | Browser only | 
-| Sent with requests | No | No |
+| **Capacity** | **10 Mb** | **5 Mb** | 
+| **Browser** | **HTML5** | **HTML5** | 
+| **Accessible from** | **Any Window** | **Same tab** |
+| **Expires** | **Never** | **On tab close** |
+| **Storage location** | **Browser only** | **Browser only** | 
+| **Sent with requests** | **No** | **No** |
 
 
 #### 3. HTML5 Device Access
 
-HTML5 provides the function of API connection, which allows external applications to connect with the data inside the browser, so that the data can be connected and communicated across platforms. For example, adding Google Maps to the web page allows the map to be used directly on the web page. There is no need to enable paging separately, this is what the API does.
+**HTML5 provides the function of API connection, which allows external applications to connect with the data inside the browser, so that the data can be connected and communicated across platforms. For example, adding Google Maps to the web page allows the map to be used directly on the web page. There is no need to enable paging separately, this is what the API does.**
 
 &nbsp; <img src="./Images/HTML5_APIs.svg" alt="HTML5_API"/>
 
