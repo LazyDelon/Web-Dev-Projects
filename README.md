@@ -40,23 +40,23 @@
 - [ ] **Select Open Folder from the Start list in Welcome,**  
 - [ ] **Select File > Open Folder from the Visual Studio Code menu.**
 
-&nbsp; <img src="./Images/vs-code-open-folder.png" alt="Get Started"/>
+&nbsp; <img src="./Images/vs-code-open-folder.png" alt="Open Folder"/>
 
 #### 3. Create Some Files
 
-&nbsp; <img src="./Images/vs-code-explorer-view.png" alt="Get Started"/>
+&nbsp; <img src="./Images/vs-code-explorer-view.png" alt=" Create Files"/>
 
 #### 4. Install Extension Modules or Kits
 
-&nbsp; <img src="./Images/vs-code-get-extension.png" alt="Get Started"/>
+&nbsp; <img src="./Images/vs-code-get-extension.png" alt="Mod or Kits"/>
 
 #### 5. Open in Browser
 
-&nbsp; <img src="./Images/vs-code-open-in-browser.png" alt="Get Started"/>
+&nbsp; <img src="./Images/vs-code-open-in-browser.png" alt="Open in Browser"/>
 
 #### 6. View the Page Using Developer Tools
 
-&nbsp; <img src="./Images/developer-tools-elements-tab.png" alt="Get Started"/>
+&nbsp; <img src="./Images/developer-tools-elements-tab.png" alt="Using Developer Tools"/>
 
 ➤  **資料來源：**[**使用 Visual Studio Code 開始進行網頁程式開發**](https://learn.microsoft.com/zh-tw/training/modules/get-started-with-web-development/) 
 
