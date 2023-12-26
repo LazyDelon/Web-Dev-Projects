@@ -28,9 +28,9 @@
 
 ### Create a new folder for your website
 
-**1. Open Visual Studio Code。**
+#### 1. Open Visual Studio Code。
 
-**When you start Visual Studio Code, the Welcome page opens. Note that you can create new files or open folders in the Start list.**
+	When you start Visual Studio Code, the Welcome page opens. Note that you can create new files or open folders in the Start list.
 
 <img src="./Images/vs-code-get-started.png" alt="Get Started"/>
 
