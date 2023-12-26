@@ -26,7 +26,7 @@
 
 ## 📋 Setting up your environment
 
-### 為您的網站建立新資料夾
+### Create a new folder for your website
 
 1. 打開 Visual Studio Code。
 
