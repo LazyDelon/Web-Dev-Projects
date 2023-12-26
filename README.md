@@ -23,11 +23,11 @@ HTML5不僅新增了影音及視訊…等功能，還新增了很多更有意義
 ➤  **資料來源：**[**W3School 標籤列表**](https://www.w3schools.com/tags/default.asp) 
 
 
-## 🌱 Getting Started 
+## 📋 Setting up your environment
 
 
 
-## Quickstart - HTML Tag Structure
+## 🌱 Quickstart - HTML Tag Structure
 
 A minimal HTML Tag Structure looks something like this：  
 You can open it in the Example.html file in the 1 - Structure folder.
