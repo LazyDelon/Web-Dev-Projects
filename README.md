@@ -30,10 +30,10 @@
 
 #### 1. Open Visual Studio Code。
 
-When you start Visual Studio Code, the Welcome page opens.  
-Note that you can create new files or open folders in the Start list.
+&nbsp;&nbsp; **When you start Visual Studio Code, the Welcome page opens.**  
+&nbsp;&nbsp; **Note that you can create new files or open folders in the Start list.**
 
-<img src="./Images/vs-code-get-started.png" alt="Get Started"/>
+&nbsp; <img src="./Images/vs-code-get-started.png" alt="Get Started"/>
 
 ➤  **資料來源：**[**使用 Visual Studio Code 開始進行網頁程式開發**](https://learn.microsoft.com/zh-tw/training/modules/get-started-with-web-development/) 
 
