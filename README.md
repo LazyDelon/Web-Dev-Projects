@@ -115,14 +115,14 @@
 ```
 
 
-### Semantic｜語法更有意義
+### Semantic
 
-### Offline Storage｜離線存取
+### Offline Storage
 
-### Device Access｜設備兼容性
+### Device Access
 
-### Connectivity｜連線、即時通訊
+### Connectivity
 
-### Multimedia｜網頁多媒體
-### 3D/ Effects/ Graphics｜3D圖形及特效
-### Integration/ Performance｜效能與整合
+### Multimedia
+### 3D/ Effects/ Graphics
+### Integration/ Performance
