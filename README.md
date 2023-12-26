@@ -37,8 +37,8 @@
 
 #### 2. Open Folder
 
-&nbsp;&nbsp; - [ ] **Select Open Folder from the Start list in Welcome,**  
-&nbsp;&nbsp; - [ ] **Select File > Open Folder from the Visual Studio Code menu.**
+- [ ] **Select Open Folder from the Start list in Welcome,**  
+- [ ] **Select File > Open Folder from the Visual Studio Code menu.**
 
 &nbsp; <img src="./Images/vs-code-get-started.png" alt="Get Started"/>
 
