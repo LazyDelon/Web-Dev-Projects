@@ -19,9 +19,9 @@
 
 ➤  **資料來源：** [**維基百科**](https://zh.wikipedia.org/zh-tw/HTML5)   
 
-**HTML5 not only adds new audio and video functions, but also adds many more meaningful grammatical features and elements, using grammatical tags to make the structure simpler! In the past, websites would be full of `<div>` and `<table>` wrapping content, but now you only need to use `<section>`, `<article>`, `<header>`, `<footer>`, `<aside>` and `<nav>`, so that The source code of the web page is more simplified and structured, so that crawlers can better understand the content of the website, thus improving search engine rankings!**
-
 &nbsp; <img src="./Images/Semantic Element Differences .jpg" alt="Differences"/>
+
+**HTML5 not only adds new audio and video functions, but also adds many more meaningful grammatical features and elements, using grammatical tags to make the structure simpler! In the past, websites would be full of `<div>` and `<table>` wrapping content, but now you only need to use `<section>`, `<article>`, `<header>`, `<footer>`, `<aside>` and `<nav>`, so that The source code of the web page is more simplified and structured, so that crawlers can better understand the content of the website, thus improving search engine rankings!**
 
 ➤  **資料來源：**[**W3School 標籤列表**](https://www.w3schools.com/tags/default.asp) 
 
