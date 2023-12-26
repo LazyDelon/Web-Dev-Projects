@@ -117,7 +117,7 @@
 ```
 
 
-#### 1. HTML5 SEO Semantic Layout Section
+#### 1. HTML5 Semantic Layout Section
 
 **There are many new semantic tags (semantic elements) in the HTML5 standard, which allow web pages to create more semantically structured content, helping search engines and developers to more clearly interpret the structure of web pages, so making good use of HTML5 semantic tags can also Enhance the SEO (search engine optimization) of web pages.**
 
@@ -125,7 +125,17 @@
 
 &nbsp; <img src="./Images/Semantic Element .png" alt="Semantic Element"/>
 
-### Offline Storage
+#### 2. HTML5 Offline Storage
+
+| Parameters | Local Storage | Session Storage | Cache Storage | 
+| ---- | ---- | ---- | ---- |
+| Capacity | 10 Mb | 5 Mb | 4 Kb |
+| Browser | HTML5 | HTML5 | HTML4/HTML5 |
+| Accessible from | Any Window | Same tab | Any Window |
+| Expires | Never | On tab close | Manually set |
+| Storage location | Browser only | Browser only | Browser & Server |
+| Sent with requests | No | No | Yes |
+
 
 ### Device Access
 
