@@ -48,7 +48,7 @@
 
 #### 4. Install Extension Modules or Kits
 
-&nbsp; <img src="./Images/vs-code-explorer-view.png" alt="Get Started"/>
+&nbsp; <img src="./Images/vs-code-get-extension.png" alt="Get Started"/>
 
 
 
