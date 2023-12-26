@@ -1,8 +1,15 @@
 # Web Development for Beginners - A Curriculum
+[![Semantic｜語法更有意義](svg)](位置)
+[![Offline Storage｜離線存取](svg)](位置)
+[![Device Access｜設備兼容性](svg)](位置)
+[![Connectivity｜連線、即時通訊](svg)](位置)
+[![Multimedia｜網頁多媒體](svg)](位置)
+[![3D/ Effects/ Graphics｜3D圖形及特效](svg)](位置)
+[![Integration/ Performance｜效能與整合](svg)](位置)
 
+➤ 資料來源：[**程式前沿**](https://zh.wikipedia.org/zh-tw/HTML5) 
 
 ## 📣 什麼是HTML5？
-
 ------
 
 HTML5就是HTML的第五次修訂的版本，由W3C在2014年10月完成標準訂定。
