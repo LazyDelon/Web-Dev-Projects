@@ -67,8 +67,8 @@
 
 ## 🌱 Quickstart - HTML Tag Structure
 
-A minimal HTML Tag Structure looks something like this：  
-You can open it in the Example.html file in the 1 - Structure folder.
+**A minimal HTML Tag Structure looks something like this：**  
+**You can open it in the Example.html file in the 1 - Structure folder.**
 
 ```html
 <!Doctype HTML>
