@@ -15,6 +15,8 @@ HTML5 is the fifth revised version of HTML. The standard was completed by W3C in
 
 Broadly speaking, HTML5 refers to a set of technology combinations that include HTML, CSS and JavaScript. These three technologies have also been innovated, with the purpose of reducing the need for plug-ins in web browsers, such as: Adobe Flash, Microsoft Silverlight, and Oracle JavaFX. And provide more standards sets that can effectively enhance network applications.
 
+Among them, HTML5 has added new projects that in the past could only be completed with Flash.For example, functions such as video, audio, drawing, and animation...Adobe Flash will cease to be fully updated in 2020, and the affected mainstream browsers will stop supporting Adobe Flash!
+
 ➤  **資料來源：** [**維基百科**](https://zh.wikipedia.org/zh-tw/HTML5)   
 
   
