@@ -119,6 +119,8 @@
 
 ### Semantic
 
+&nbsp; <img src="./Images/Semantic Element.gif" alt="Semantic Element"/>
+
 ### Offline Storage
 
 ### Device Access
