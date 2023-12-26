@@ -78,3 +78,13 @@ You can open it in the Example.html file in the 1 - Structure folder.
 
 
 ### Semantic｜語法更有意義
+
+### Offline Storage｜離線存取
+
+### Device Access｜設備兼容性
+
+### Connectivity｜連線、即時通訊
+
+### Multimedia｜網頁多媒體
+### 3D/ Effects/ Graphics｜3D圖形及特效
+### Integration/ Performance｜效能與整合
