@@ -29,7 +29,8 @@ HTML5不僅新增了影音及視訊…等功能，還新增了很多更有意義
 
 1. 打開 Visual Studio Code。
 
-當您開啟 Visual Studio Code 時，[歡迎]頁面會隨即開啟。 請注意，您可以在 [開始]清單中建立新檔案或開啟資料夾。
+	當您開啟 Visual Studio Code 時，〔歡迎〕頁面會隨即開啟。  
+ 	請注意，您可以在 〔開始〕清單中建立新檔案或開啟資料夾。
 
 ➤  **資料來源：**[**使用 Visual Studio Code 開始進行網頁程式開發**](https://learn.microsoft.com/zh-tw/training/modules/get-started-with-web-development/) 
 
