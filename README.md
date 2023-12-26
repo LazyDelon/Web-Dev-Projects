@@ -25,7 +25,7 @@ HTML5不僅新增了影音及視訊…等功能，還新增了很多更有意義
 
 ## 📋 Setting up your environment
 
-
+➤  **資料來源：**[**使用 Visual Studio Code 開始進行網頁程式開發**](https://learn.microsoft.com/zh-tw/training/modules/get-started-with-web-development/) 
 
 ## 🌱 Quickstart - HTML Tag Structure
 
