@@ -35,6 +35,13 @@
 
 &nbsp; <img src="./Images/vs-code-get-started.png" alt="Get Started"/>
 
+#### 2. Open Folder
+
+&nbsp;&nbsp; **[ ] Select Open Folder from the Start list in Welcome,**
+&nbsp;&nbsp; **[ ] Select File > Open Folder from the Visual Studio Code menu.**
+
+&nbsp; <img src="./Images/vs-code-get-started.png" alt="Get Started"/>
+
 ➤  **資料來源：**[**使用 Visual Studio Code 開始進行網頁程式開發**](https://learn.microsoft.com/zh-tw/training/modules/get-started-with-web-development/) 
 
 ## 🌱 Quickstart - HTML Tag Structure
