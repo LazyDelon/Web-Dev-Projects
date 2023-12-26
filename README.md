@@ -123,6 +123,8 @@
 
 **The main semantic structure tags of HTML5 are `<section>`, `<article>`, `<nav>`, `<header>`, `<footer>`, `<main>`, and `<aside>`。Use semantic tags to replace the semantically meaningless `<div>` in older versions.**
 
+&nbsp; <img src="./Images/Semantic Element .jfif" alt="Semantic Element"/>
+
 ### Offline Storage
 
 ### Device Access
