@@ -1,5 +1,5 @@
-# 初學者 Web 開發 - 課程
-Web Development for Beginners - A Curriculum
+# Web Development for Beginners - A Curriculum
+
 
 什麼是HTML5？
 
