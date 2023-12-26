@@ -121,7 +121,7 @@
 
 **There are many new semantic tags (semantic elements) in the HTML5 standard, which allow web pages to create more semantically structured content, helping search engines and developers to more clearly interpret the structure of web pages, so making good use of HTML5 semantic tags can also Enhance the SEO (search engine optimization) of web pages.**
 
-The main semantic structure tags of HTML5 are `<section>`, `<article>`, `<nav>`, `<header>`, `<footer>`, `<main>`, and `<aside>`.Use semantic tags to replace the semantically meaningless `<div>` in older versions.
+**The main semantic structure tags of HTML5 are `<section>`, `<article>`, `<nav>`, `<header>`, `<footer>`, `<main>`, and `<aside>`。Use semantic tags to replace the semantically meaningless `<div>` in older versions.**
 
 ### Offline Storage
 
