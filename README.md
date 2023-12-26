@@ -19,8 +19,7 @@
 
 ➤  **資料來源：** [**維基百科**](https://zh.wikipedia.org/zh-tw/HTML5)   
 
-  
-HTML5不僅新增了影音及視訊…等功能，還新增了很多更有意義的語法特徵和元素，利用語法標籤讓結構變得更加簡單！在以往的網站都會有滿滿的＜div＞和＜table＞包覆內容，而現在只需要利用＜section＞、＜article＞、＜header＞、＜footer＞、＜aside＞和＜nav＞，讓網頁原始碼更加簡化、結構化，這樣爬蟲就能更加理解網站內容，因此提高搜尋引擎的排名！
+HTML5 not only adds new audio and video functions, but also adds many more meaningful grammatical features and elements, using grammatical tags to make the structure simpler! In the past, websites would be full of `<div>` and `<table>` wrapping content, but now you only need to use `<section>`, `<article>`, `<header>`, `<footer>`, `<aside>` and `<nav>`, so that The source code of the web page is more simplified and structured, so that crawlers can better understand the content of the website, thus improving search engine rankings!
 
 ➤  **資料來源：**[**W3School 標籤列表**](https://www.w3schools.com/tags/default.asp) 
 
