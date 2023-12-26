@@ -60,8 +60,8 @@
 
 >  **Recommended Visual Studio Code extensions:**
 >
-> * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&WT.mc_id=academic-77807-sagibbon) **- to preview HTML pages within Visual Studio Code**
-> * [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot&WT.mc_id=academic-77807-sagibbon) **- to help you write code faster**
+> * **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&WT.mc_id=academic-77807-sagibbon) - to preview HTML pages within Visual Studio Code**
+> * **[Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot&WT.mc_id=academic-77807-sagibbon) - to help you write code faster**
 
 ➤  **資料來源：**[**使用 Visual Studio Code 開始進行網頁程式開發**](https://learn.microsoft.com/zh-tw/training/modules/get-started-with-web-development/) 
 
