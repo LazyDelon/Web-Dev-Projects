@@ -33,30 +33,30 @@
 &nbsp;&nbsp; **When you start Visual Studio Code, the Welcome page opens.**  
 &nbsp;&nbsp; **Note that you can create new files or open folders in the Start list.**
 
-&nbsp; <img src="./Images/vs-code-get-started.png" alt="Get Started"/>
+&nbsp; <img src="./Images/vscode - get started.png" alt="Get Started"/>
 
 #### 2. Open Folder
 
 - [ ] **Select Open Folder from the Start list in Welcome,**  
 - [ ] **Select File > Open Folder from the Visual Studio Code menu.**
 
-&nbsp; <img src="./Images/vs-code-open-folder.png" alt="Open Folder"/>
+&nbsp; <img src="./Images/vscode - open folder.png" alt="Open Folder"/>
 
 #### 3. Create Some Files
 
-&nbsp; <img src="./Images/vs-code-explorer-view.png" alt=" Create Files"/>
+&nbsp; <img src="./Images/vscode - explorer view.png" alt=" Create Files"/>
 
 #### 4. Install Extension Modules or Kits
 
-&nbsp; <img src="./Images/vs-code-get-extension.png" alt="Mod or Kits"/>
+&nbsp; <img src="./Images/vscode - extension.png" alt="Mod or Kits"/>
 
 #### 5. Open in Browser
 
-&nbsp; <img src="./Images/vs-code-open-in-browser.png" alt="Open in Browser"/>
+&nbsp; <img src="./Images/vscode - open in browser.png" alt="Open in Browser"/>
 
 #### 6. View the Page Using Developer Tools
 
-&nbsp; <img src="./Images/developer-tools-elements-tab.png" alt="Using Developer Tools"/>
+&nbsp; <img src="./Images/vscode - developer tools elements tab.png" alt="Using Developer Tools"/>
 
 >  **Recommended Visual Studio Code extensions:**
 >
