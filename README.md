@@ -125,16 +125,22 @@
 
 &nbsp; <img src="./Images/Semantic Element .png" alt="Semantic Element"/>
 
-#### 2. HTML5 Offline Storage
+#### 2. HTML5 Web Storage
 
-| Parameters | Local Storage | Session Storage | Cache Storage | 
-| ---- | ---- | ---- | ---- |
-| Capacity | 10 Mb | 5 Mb | 4 Kb |
-| Browser | HTML5 | HTML5 | HTML4/HTML5 |
-| Accessible from | Any Window | Same tab | Any Window |
-| Expires | Never | On tab close | Manually set |
-| Storage location | Browser only | Browser only | Browser & Server |
-| Sent with requests | No | No | Yes |
+HTML5 provides a technology that can store data on the client side, which is divided into "Local Storage" and "Session Storage". The difference between the two is：
+
+* Local Storage：can store data across pages, and the data will not disappear when the page is closed (for example: some website forms will still remember the information entered before when we close and reopen them halfway through filling in the form)
+
+* Session Storage: Data cannot be stored across pages. The data will disappear when the page is closed.
+
+| Parameters | Local Storage | Session Storage | 
+| ---- | ---- | ---- | 
+| Capacity | 10 Mb | 5 Mb | 
+| Browser | HTML5 | HTML5 | 
+| Accessible from | Any Window | Same tab |
+| Expires | Never | On tab close |
+| Storage location | Browser only | Browser only | 
+| Sent with requests | No | No |
 
 
 ### Device Access
