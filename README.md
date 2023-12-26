@@ -143,7 +143,11 @@ HTML5 provides a technology that can store data on the client side, which is div
 | Sent with requests | No | No |
 
 
-### Device Access
+#### 3. HTML5 Device Access
+
+HTML5 provides the function of API connection, which allows external applications to connect with the data inside the browser, so that the data can be connected and communicated across platforms. For example, adding Google Maps to the web page allows the map to be used directly on the web page. There is no need to enable paging separately, this is what the API does.
+
+&nbsp; <img src="./Images/HTML5_APIs.svg" alt="HTML5_API"/>
 
 ### Connectivity
 
