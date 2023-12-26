@@ -1,6 +1,5 @@
 # Web Development for Beginners - A Curriculum
 
-
 什麼是HTML5？
 
 HTML5就是HTML的第五次修訂的版本，由W3C在2014年10月完成標準訂定。
