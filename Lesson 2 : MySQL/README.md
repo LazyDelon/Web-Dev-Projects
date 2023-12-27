@@ -73,8 +73,16 @@ Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 
 **There are currently many websites that use PHP + MySQL. For example, the well-known WordPress is a free and open source content management system that uses PHP and MySQL as the platform. Therefore, whether it is used for a completely self-hosted website (a website written by oneself) or using CMS such as WordPress and Joomla All can be set up through XAMPP.**
 
-&nbsp; <img src="./Images/xampp - download .png" alt="Download"/>
+&nbsp; <img src="./Images/xampp - download.png" alt="Download"/>
 
 **XAMPP installation is not difficult, just click a series of "YES" and "NEXT". Finally, just pay attention to the installation service selection screen. If the server is at home, just select Apache and MySQL. If If the server will be placed elsewhere, you need to check File Zilla FTP Server. This is an FTP software used to upload other data.**
 
 ### 🎓 Basic environment description
+
+
+
+&nbsp; <img src="./Images/xampp - Environment configuration.png" alt="Environment configuration"/>
+
+
+
+➤  **資料來源：** [**XAMPP 介紹、下載與教學**](https://kumo.tw/article.php?id=15#basic)   
