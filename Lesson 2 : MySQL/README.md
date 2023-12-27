@@ -79,9 +79,23 @@ Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 
 ### 🎓 Basic environment description
 
-
+**Finally, let’s briefly explain the basic environment of XAMPP:**
 
 &nbsp; <img src="./Images/xampp - Environment configuration.png" alt="Environment configuration"/>
+
+
+<font color="red"> Red box: Service and status area. When the service is started, the Module status area will turn green.</font>
+
+
+**2. Blue box: Execution code, PID(s) refers to the execution code of the service on the operating system, which can be compared with the work administrator.**
+
+**3. Orange box: Channel used by the service.**
+
+**4. Purple box: Service control area, used to start and stop servers and modify configuration files.**
+
+**5. Green box: Service execution status report, used to report the current service execution status.**
+
+
 
 
 
