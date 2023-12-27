@@ -97,9 +97,6 @@ That is: .classA.classB is not equal to .classA .classB**
 
 ## 🎓 HTML Input Types
 
-**The ‵<input>‵ HTML element is used to create interactive controls for web-based forms in order to accept data from the user; a wide variety of types of input data and control widgets are available, depending on the device and user agent. The <input> element is one of the most powerful and complex in all of HTML due to the sheer number of combinations of input types and attributes.**
-
-
 | **Value** |	**Description** |
 | ---- | ---- |
 | **button**	| **Defines a clickable button (mostly used with a JavaScript to activate a script)** |
@@ -125,6 +122,11 @@ That is: .classA.classB is not equal to .classA .classB**
 | **url**	| **Defines a field for entering a URL** |
 | **week**	| **Defines a week and year control (no timezone)** |
 
+**The ‵<input>‵ HTML element is used to create interactive controls for web-based forms in order to accept data from the user; a wide variety of types of input data and control widgets are available, depending on the device and user agent. The <input> element is one of the most powerful and complex in all of HTML due to the sheer number of combinations of input types and attributes.**
 
 ➤  **資料來源：** [**Input Types - Steam 教育學習網**](https://steam.oxxostudio.tw/category/html/tags/input.html)   
 
+
+## 🎓 CSS Box Model 
+
+The essence of the CSS box model is a box that wraps each HTML element. It refers to the area occupied by an element in the screen. Its components include: margins, borders, padding and content, and each HTML element is a box model. , the picture of a complete web page is composed of many elements.
