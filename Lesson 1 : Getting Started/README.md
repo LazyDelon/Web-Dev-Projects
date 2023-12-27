@@ -1,20 +1,5 @@
 # Getting Started with Web Development
 
-### 🎓 Courses
-
-**Introduction to development environment, installation & basic syntax**  
-
-
-|  |	**Courses** |
-| :-: | ---- |
-| **1-1**	| **Structure** |
-| **1-2**	| **Input Types** |
-| **1-3**	| **Image** |
-| **1-4**	| **Form** |
-| **1-5**	| **Extra** |
-| **1-6**	| **Box Model** |
-| **1-7**	| **Box-Shandow** |
-
 
 ## 📋 Setting up your environment 
 
