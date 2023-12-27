@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Attributes：min & max </title>
+    </head>
+    
+    <body>
+        
+        <h2> The min and max Attributes </h2>
+        
+        <p>
+            The min and max attribute specify the 
+            minuimum and maximum values for an input element.
+        </p>
+    
+        <form action="/action_page.php">
+            
+            Enter a date before 1980-01-01：
+            <input type="date" name="bday" max="1979-12-31"> 
+            
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+            
+            Enter a date after 2000-01-01：
+            <input type="date" name="bday" min="2000-01-02"> 
+            
+            <br><br><br><br><br><br><br><br><br><br>
+            <br><br><br><br><br><br><br><br><br><br>
+            
+            Quantity (Between 1 to 5)：
+            <input type="number" name="Quantity" min="1" max="5">
+            
+            <input type="submit">
+        </form>
+    </body>
+</html>

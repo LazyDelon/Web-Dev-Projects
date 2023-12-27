@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head> 
+        
+        <meta charset="utf-8">
+        
+        <title> input + output </title>
+    </head>
+    
+    <body>
+        
+        <h2> The Output Element </h2>
+        
+        <p>
+            The output element represents the result of a calculation.
+        </p>
+        
+        <form action="/action_page.php"
+              oninput="y.value = parseInt(a.value) + parseInt(b.value)">
+
+            0 <input type="range" id="a" name="a" value="50" oninput="myFunction()"> 100 
+            
+            <br><br> ➜ <nobr id="range"> </nobr> &ensp;
+            
+            + &ensp; <input type="number" id="b" value="50"> &ensp; =
+            
+            <output name="y" for="range b"> </output> <br>
+        </form>
+        
+        <script>
+            function myFunction() {
+
+                var x = document.getElementById("a").value;
+                document.getElementById("range").innerHTML = x;
+            }
+        </script> 
+        
+      
+        <p> <strong>Note</strong> The output element. </p>
+    </body>
+    
+</html>
+
