@@ -87,7 +87,9 @@ Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 <font color="red"> Red box: Service and status area. When the service is started, the Module status area will turn green.</font>
 
 
-**2. Blue box: Execution code, PID(s) refers to the execution code of the service on the operating system, which can be compared with the work administrator.**
+<span style="color:blue">
+Blue box: Execution code, PID(s) refers to the execution code of the service on the operating system, which can be compared with the work administrator.
+</span>
 
 **3. Orange box: Channel used by the service.**
 
