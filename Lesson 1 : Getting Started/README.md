@@ -41,3 +41,8 @@
 **6. Installing, waiting for installation to complete：** 
 
 &nbsp; <img src="./Images/vscode - download step5.png" alt="Download step5"/>
+
+**7. The installation is complete, click Finish：** 
+
+
+
