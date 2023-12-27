@@ -172,3 +172,5 @@
 * **Through HTTP 1.1 persistent connection (keep-alive), it effectively solves the performance problems caused by HTTP polling (Polling) and saves server resources.**
 
 * **Practical examples: message push, instant chat room, co-editing and other functions.**
+
+➤  **資料來源：**[**淺談 WebSocket 協定**](https://hackmd.io/@Heidi-Liu/javascript-websocket/) 
