@@ -64,6 +64,7 @@ Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 
 ➤ &nbsp; **Mainly used to control the security of the database management system. Commonly used instructions include: `GRANT`, `DENY`, `REVOKE`.**
 
+&nbsp; <img src="./Images/MySQL - Server.png" alt="Server"/>
 
 
 ## 📋 Setting up your environment
