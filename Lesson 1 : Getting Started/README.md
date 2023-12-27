@@ -20,24 +20,24 @@
 
 **1.** 
 
-&nbsp; <img src="./Images/vscode - download setp0.png" alt="Differences"/>
+&nbsp; <img src="./Images/vscode - download setp0.png" alt="Download setp0"/>
 
 **2.** 
 
-&nbsp; <img src="./Images/vscode - download setp1.png" alt="Differences"/>
+&nbsp; <img src="./Images/vscode - download setp1.png" alt="Download setp1"/>
 
 **3.** 
 
-&nbsp; <img src="./Images/vscode - download setp2.png" alt="Differences"/>
+&nbsp; <img src="./Images/vscode - download setp2.png" alt="Download setp2"/>
 
 **4.** 
 
-&nbsp; <img src="./Images/vscode - download setp3.png" alt="Differences"/>
+&nbsp; <img src="./Images/vscode - download setp3.png" alt="Download setp3"/>
 
 **5.** 
 
-&nbsp; <img src="./Images/vscode - download setp4.png" alt="Differences"/>
+&nbsp; <img src="./Images/vscode - download setp4.png" alt="Download setp4"/>
 
 **6.** 
 
-&nbsp; <img src="./Images/vscode - download setp5.png" alt="Differences"/>
+&nbsp; <img src="./Images/vscode - download setp5.png" alt="Download setp5"/>
