@@ -109,4 +109,8 @@ $\color{green}{\textsf{5. Green box: Service execution status report, used to re
 
 &nbsp; <img src="./Images/xampp -  MySQL.png" alt="MySQL"/>
 
+**Server page**
+
+&nbsp; <img src="./Images/xampp -  phpMyAdmin.png" alt="phpMyAdmin"/>
+
 ➤  **資料來源：** [**XAMPP 介紹、下載與教學**](https://kumo.tw/article.php?id=15#basic)   
