@@ -5,16 +5,16 @@
 
 ### Narrow database definition
 
-* **Store these definitions and restrictions in a database.**
+➤ &nbsp; **Store these definitions and restrictions in a database.**
 
-* **After faithfully abstracting and generalizing real phenomena, some integrity limits of the material are clearly defined and standardized.**
+➤ &nbsp; **After faithfully abstracting and generalizing real phenomena, some integrity limits of the material are clearly defined and standardized.**
 
 
 ### Extensive database definition
 
-* **collection of related data.**
+➤ &nbsp; **collection of related data.**
 
-* **The storage method of word processing software such as Microsoft Word, Excel, and Access is called a "database."**
+➤ &nbsp; **The storage method of word processing software such as Microsoft Word, Excel, and Access is called a "database."**
 
 
 ### Database
@@ -40,6 +40,7 @@
 
 ### Data Manipulation Language (DML)
 
-Mainly used to access data in data tables or view tables.
-Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.
+➤ &nbsp; **Mainly used to access data in data tables or view tables.  
+Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
+
 
