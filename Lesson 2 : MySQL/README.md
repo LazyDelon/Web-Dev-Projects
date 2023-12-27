@@ -95,9 +95,18 @@ $\color{green}{\textsf{5. Green box: Service execution status report, used to re
 
 
 
+### 🎓 Open the Web page
 
+**Now just click on Apache's start button and you're done. At this point, the Start button will change to the Stop button. If you need to turn it off, press Stop again. If you want to completely exit xampp, you need to press the Quit button in the lower right corner to completely exit.(If you cannot exit normally, [please refer to: XAMPP cannot exit normally](https://kumo.tw/article.php?id=16).)**
 
+&nbsp; <img src="./Images/xampp -  open web.png" alt="open the web page"/>
 
+**Then press the Admin button and the XAMPP default webpage will automatically open. If it can be opened successfully, it means that XAMPP has been successfully installed. This webpage is located at `/xammpp/htdocst/dashboard/index.html`. It usually has the XAMPP welcome message and some Regarding XAMPP's frequently asked questions and operation instructions, you can delete the files and folders under htdocst according to your own needs, and then create your own folders and web pages.**
 
+&nbsp; <img src="./Images/xampp -  Apache.png" alt="Apache"/>
+
+**If you need to use MySQL, remember to press the Start button of MySQL. Click Admin to connect to MySQL.**
+
+&nbsp; <img src="./Images/xampp -  MySQL.png" alt="MySQL"/>
 
 ➤  **資料來源：** [**XAMPP 介紹、下載與教學**](https://kumo.tw/article.php?id=15#basic)   
