@@ -3,14 +3,14 @@
 ## 📣 Learn about database systems
 
 
-### Narrow database definition
+### 1. Narrow database definition
 
 ➤ &nbsp; **Store these definitions and restrictions in a database.**
 
 ➤ &nbsp; **After faithfully abstracting and generalizing real phenomena, some integrity limits of the material are clearly defined and standardized.**
 
 
-### Extensive database definition
+### 2. Extensive database definition
 
 ➤ &nbsp; **collection of related data.**
 
@@ -38,9 +38,19 @@
 
 ## 📣 Structured Query Language (SQL)
 
-### Data Manipulation Language (DML)
+### 1. Data Manipulation Language (DML)
 
 ➤ &nbsp; **Mainly used to access data in data tables or view tables.  
 Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 
+
+
+### 2. Data Definition Language (DDL)
+
+➤ &nbsp; **It mainly performs command operations such as creating, deleting, and modifying the structure definitions of different objects. For example:  `create`, `delete`, `change`.**
+
+
+### 3. Data Control Language (DCL)
+
+➤ &nbsp; **Mainly used to control the security of the database management system. Commonly used instructions include: `GRANT`, `DENY`, `REVOKE`.**
 
