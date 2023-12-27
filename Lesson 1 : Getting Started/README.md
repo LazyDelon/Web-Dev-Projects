@@ -19,7 +19,7 @@
 
 ### Download Visual Studio Code
 
-**1. Open the web page https://code.visualstudio.com/：** 
+**1. Open the web page [https://code.visualstudio.com/：](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)** 
 
 &nbsp; <img src="./Images/vscode - download step0.png" alt="Download step0"/>
 
