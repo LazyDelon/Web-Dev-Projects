@@ -58,6 +58,11 @@ Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 
 ## 📋 Setting up your environment
 
+**Please go to the official website to download XAMPP through the following link. The official website is called Apache Firiends. Because it is not called XAMPP, it is often mistaken for not being the official website. However, it is actually the official website for downloading XAMPP.**
+
+**You can download Visual Studio Code [here](https://www.apachefriends.org/zh_tw/index.html).**
+
+
 
 
 ### XAMPP
@@ -68,3 +73,5 @@ Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 
 **There are currently many websites that use PHP + MySQL. For example, the well-known WordPress is a free and open source content management system that uses PHP and MySQL as the platform. Therefore, whether it is used for a completely self-hosted website (a website written by oneself) or using CMS such as WordPress and Joomla All can be set up through XAMPP.**
 
+
+XAMPP installation is not difficult, just click a series of "YES" and "NEXT". Finally, just pay attention to the installation service selection screen. If the server is at home, just select Apache and MySQL. If If the server will be placed elsewhere, you need to check File Zilla FTP Server. This is an FTP software used to upload other data.
