@@ -73,16 +73,19 @@
 **You can open it in the Example.html file in the 1 - Structure folder.**
 
 ```html
-<!Doctype HTML>
+<!DOCTYPE HTML>
+
 <html>
-	<head>
-		<title>
-			My Website
-		</title>
-	</head>
-	<body>
-		Hello, World!	
-	</body>
+    <head>
+        
+        <meta charset="utf-8">
+        <title> 文檔標題 </title>
+    </head>
+    
+    <body>
+        
+        文檔內容...
+    </body>
 </html>
 ```
 
