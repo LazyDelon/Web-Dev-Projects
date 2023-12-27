@@ -155,13 +155,13 @@
 
 **HTML5 provides the function of API connection, which allows external applications to connect with the data inside the browser, so that the data can be connected and communicated across platforms. For example, adding Google Maps to the web page allows the map to be used directly on the web page. There is no need to enable paging separately, this is what the API does.**
 
-&nbsp; <img src="./Images/HTML5_APIs.svg" alt="HTML5_API"/>
+&nbsp; <img src="./Images/HTML_APIs.svg" alt="HTML5_API"/>
 
 #### 4. HTML5 Connectivity
 
 **HTML5 has a more efficient server push technology, which uses server-sent events and two-way communication technology WebSockets to bring a more efficient connection solution.**
 
-&nbsp; <img src="./Images/WebStock .png" alt="HTML5_API"/>
+&nbsp; <img src="./Images/HTML_WebStock .png" alt="HTML5_API"/>
 
 ##### 4-1 What is WebSocket?
 
