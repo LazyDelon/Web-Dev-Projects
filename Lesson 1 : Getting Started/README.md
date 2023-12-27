@@ -5,7 +5,7 @@
 **Introduction to development environment, installation & basic syntax**  
 
 
-| **Value** |	**Description** |
+|  |	**Courses** |
 | :-: | ---- |
 | **1-1**	| **Structure** |
 | **1-2**	| **Input Types** |
