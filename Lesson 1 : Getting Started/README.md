@@ -22,7 +22,7 @@
 
 &nbsp; <img src="./Images/vscode - download step0.png" alt="Download step0"/>
 
-**2. Click Download for Windows to download the installation file. After the download is complete, open the installation file：** 
+**2. Click `Download for Windows` to download the installation file. After the download is complete, open the installation file：** 
 
 &nbsp; <img src="./Images/vscode - download step1.png" alt="Download step1"/>
 
