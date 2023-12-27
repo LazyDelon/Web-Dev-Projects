@@ -84,7 +84,7 @@ Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 &nbsp; <img src="./Images/xampp - Environment configuration.png" alt="Environment configuration"/>
 
 
-<font color="red"> Red box: Service and status area. When the service is started, the Module status area will turn green.</font>
+<font color=red> Red box: Service and status area. When the service is started, the Module status area will turn green.</font>
 
 
 <span style="color:blue">
