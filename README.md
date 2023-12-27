@@ -7,8 +7,6 @@
 [![3D/ Effects/ Graphics｜3D圖形及特效](svg)](位置)
 [![Integration/ Performance｜效能與整合](svg)](位置)
 
-➤  **資料來源：**[**xxxx**](https://zh.wikipedia.org/zh-tw/HTML5) 
-
 ## 📣 What is HTML5?
 
 **HTML5 is the fifth revised version of HTML. The standard was completed by W3C in October 2014.**
