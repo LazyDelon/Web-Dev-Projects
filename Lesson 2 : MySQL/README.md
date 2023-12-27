@@ -83,18 +83,16 @@ Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 
 &nbsp; <img src="./Images/xampp - Environment configuration.png" alt="Environment configuration"/>
 
+$\color{red}{\textsf{1. Red box: Service and status area. When the service is started, the Module status area will turn green.}}$
 
-Red box: Service and status area. When the service is started, the Module status area will turn green.
+$\color{blue}{\textsf{2. Blue box: Execution code, PID(s) refers to the execution code of the service on the operating system, which can be compared with the work administrator.}}$
 
+$\color{orange}{\textsf{3. Orange box: Channel used by the service.}}$
 
-Blue box: Execution code, PID(s) refers to the execution code of the service on the operating system, which can be compared with the work administrator.
+$\color{purple}{\textsf{4. Purple box: Service control area, used to start and stop servers and modify configuration files.}}$
 
+$\color{green}{\textsf{5. Green box: Service execution status report, used to report the current service execution status.}}$
 
-**3. Orange box: Channel used by the service.**
-
-**4. Purple box: Service control area, used to start and stop servers and modify configuration files.**
-
-**5. Green box: Service execution status report, used to report the current service execution status.**
 
 
 
