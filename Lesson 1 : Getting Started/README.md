@@ -45,4 +45,6 @@
 **7. The installation is complete, click Finish：** 
 
 
+➤  **資料來源：** [**在 Windows 10 安裝 Visual Studio Code**](https://etrex.tw/free_chatbot_book/windows_dev/vscode.html)   
+
 
