@@ -36,6 +36,16 @@
 ➤ &nbsp; **It consists of some relevant information, The "applications" that access this data form a collection of logical "applications" to meet the needs of the enterprise.**
 
 
+
+### Database management system (DBMS)
+
+➤ &nbsp; **Allows users or programmers to define, control and access data through provided shared software.**
+
+&nbsp; <img src="./Images/MySQL - DBMS.png" alt="DBMS"/>
+
+
+
+
 ## 📣 Structured Query Language (SQL)
 
 ### 1. Data Manipulation Language (DML)
