@@ -101,7 +101,7 @@ That is: .classA.classB is not equal to .classA .classB**
 
 
 | **Value** |	**Description** |
-| **----** | **----** |
+| ---- | ---- |
 | **button**	| **Defines a clickable button (mostly used with a JavaScript to activate a script)** |
 | **checkbox**	| **Defines a checkbox** |
 | **color**	| **Defines a color picker** |
