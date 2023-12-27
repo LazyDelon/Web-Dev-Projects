@@ -58,3 +58,13 @@ Commonly used instructions include: `SELECT`, `INSERT`, `UPDATE` and `DELETE`.**
 
 ## 📋 Setting up your environment
 
+
+
+### XAMPP
+
+**XAMPP is a software package that can easily integrate Apache (web server), PHP (server-side language), Perl (programming language) and MariaDB (database). Through XAMPP, you can quickly and easily set up a website.**
+
+**When setting up a website, we need to use a web server to allow visitors to connect to our website. Currently, the more common web servers include Apache HTTP server (Apache for short) and Microsoft's Internet Information Server (IIS for short). Web pages (including various files such as images, videos, etc.) can be provided to the requester through the web server.**
+
+**There are currently many websites that use PHP + MySQL. For example, the well-known WordPress is a free and open source content management system that uses PHP and MySQL as the platform. Therefore, whether it is used for a completely self-hosted website (a website written by oneself) or using CMS such as WordPress and Joomla All can be set up through XAMPP.**
+
