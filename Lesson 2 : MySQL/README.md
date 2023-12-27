@@ -103,7 +103,7 @@ $\color{green}{\textsf{5. Green box: Service execution status report, used to re
 
 **Then press the Admin button and the XAMPP default webpage will automatically open. If it can be opened successfully, it means that XAMPP has been successfully installed. This webpage is located at `/xammpp/htdocst/dashboard/index.html`. It usually has the XAMPP welcome message and some Regarding XAMPP's frequently asked questions and operation instructions, you can delete the files and folders under htdocst according to your own needs, and then create your own folders and web pages.**
 
-&nbsp; <img src="./Images/xampp -  Apache.png" alt="Apache" style="width:600px"/>
+&nbsp; <img src="./Images/xampp -  Apache.png" alt="Apache" style="width:650px"/>
 
 **If you need to use MySQL, remember to press the Start button of MySQL. Click Admin to connect to MySQL.**
 
