@@ -54,11 +54,17 @@ In CSS, selectors are patterns used to select the element(s) you want to style.
 
 Selectors, whether used in CSS or JavaScript, enable targeting HTML elements based on their type, attributes, current states, and even position in the DOM. Combinators allow you to be more precise when selecting elements by enabling selecting elements based on their relationship to other elements.
 
+
+
 ### Group selectors: [selectors A], [selectors B]
 **Use a comma to separate two selectors, which means that the same style will be attached to the elements that match any one of them. In this way, multiple selectors can be circled to avoid writing the same rules repeatedly.**
 
+
+
 ### Composite class selector: [selectors A][selectors B]
 **If an element has more than one category, and we want to distinguish it by the category it has, we can choose to use a compound class selector. For example, today there is a div that has additional categories in addition to the basic component category, such as width-2x or width-3, etc., then we can mark .component.width-2x or .component.width-3x Make a distinction.**
+
+
 
 ### Subpoint selectors: [selectors A] > [selectors B]
 **When we want to change the attributes of some sub-elements under an element, we can use the sub-point selector to help us quickly apply to all sub-elements that meet the conditions of selector B.**
@@ -81,8 +87,6 @@ That is: .classA.classB is not equal to .classA .classB**
 **To be honest, I don't use this selector very often at the moment. When I use it, I usually have to make sure that the two elements are adjacent in the web page structure. The simplest way I can think of is <img> and <figcaption> in <figure>. After all, they usually exist at the same time and are adjacent.**
 
 
-
-
 ### Post-selectors: [selectors A]~[selectors B]
 **The restriction of adjacent selectors is that they must be adjacent to be effective, while the posterior selector is applied to all sibling elements on the same layer.**
 
@@ -90,4 +94,37 @@ That is: .classA.classB is not equal to .classA .classB**
 
 ➤  **資料來源：** [**CSS Selector Reference**](https://www.w3schools.com/cssref/css_selectors.php)   
 
+
+## 🎓 HTML Input Types
+
+**The ‵<input>‵ HTML element is used to create interactive controls for web-based forms in order to accept data from the user; a wide variety of types of input data and control widgets are available, depending on the device and user agent. The <input> element is one of the most powerful and complex in all of HTML due to the sheer number of combinations of input types and attributes.**
+
+
+| **Value** |	**Description** |
+| **----** | **----** |
+| **button**	| **Defines a clickable button (mostly used with a JavaScript to activate a script)** |
+| **checkbox**	| **Defines a checkbox** |
+| **color**	| **Defines a color picker** |
+| **date**	| **Defines a date control (year, month, day (no time))** |
+| **datetime-local**	| **Defines a date and time control (year, month, day, time (no timezone)** |
+| **email**	| **Defines a field for an e-mail address** |
+| **file**	| **Defines a file-select field and a "Browse" button (for file uploads)** |
+| **hidden**	| **Defines a hidden input field** |
+| **image**	| **Defines an image as the submit button** |
+| **month**	| **Defines a month and year control (no timezone)** |
+| **number**	| **Defines a field for entering a number** |
+| **password**	| **Defines a password field** |
+| **radio**	| **Defines a radio button** |
+| **range**	| **Defines a range control (like a slider control)** |
+| **reset**	| **Defines a reset button** |
+| **search**	| **Defines a text field for entering a search string** |
+| **submit**	| **Defines a submit button** |
+| **tel**	| **Defines a field for entering a telephone number** |
+| **text**	| **Default. Defines a single-line text field** |
+| **time**	| **Defines a control for entering a time (no timezone)** |
+| **url**	| **Defines a field for entering a URL** |
+| **week**	| **Defines a week and year control (no timezone)** |
+
+
+➤  **資料來源：** [**Input Types - Steam 教育學習網**](https://steam.oxxostudio.tw/category/html/tags/input.html)   
 
