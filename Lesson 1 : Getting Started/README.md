@@ -138,4 +138,4 @@ That is: .classA.classB is not equal to .classA .classB**
 
 **The difference between the two is that the two box models have different standards for calculating the width and height of the box. The width and height of the `content-box` box will only contain content, not padding and border; but the box model of `border-box` will include content, padding and border, as shown in the figure below.**
 
-&nbsp; <img src="./Images/Box Model.png" alt="W3C & IE Box Model"/>
+&nbsp; <img src="./Images/Box Model.png" alt="Box Model"/>
