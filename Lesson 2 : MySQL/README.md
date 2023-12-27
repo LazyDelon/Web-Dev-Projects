@@ -1,4 +1,4 @@
-# XXXX
+# MySQL Development  for Beginners - Courses
 
 ## 📣 Learn about database systems
 
