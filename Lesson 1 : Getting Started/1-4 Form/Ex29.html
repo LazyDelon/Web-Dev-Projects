@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Basic HTML table </title>
+        
+        <style>
+            
+            td, th {
+                text-align: center;
+            }
+            
+            td, th, table {
+                border: 1px solid black;
+                border-collapse: collapse ;
+            } 
+            
+            table {
+                width: 100%; 
+                color: brown; 
+                font-size: 20px;
+                font-weight: bold;
+            }
+            
+            .title {
+                color: black; 
+                font-size: 25px;
+                font-weight: bold;
+                background-color: lightblue;
+            }
+        </style>
+    </head>
+    
+    <body>
+    
+        <table>
+
+            <caption> My Friends </caption>
+        
+            <tr class="title">
+                
+                <th> First Name </th>
+                <th colspan="2"> Last  Name / Age </th>
+            </tr>
+            
+            <tr style="background-color: yellow;">
+                
+                <td> Jill  </td>
+                <td> Smith </td>
+                <td> 50    </td>
+            </tr>
+            
+            <tr style="background-color: yellow;">
+                
+                <td> Eva     </td>
+                <td> Jackson </td>
+                <td> 94      </td>
+            </tr>
+            
+            <tr style="background-color: yellow;">
+                
+                <td> John </td>
+                <td> Doe  </td>
+                <td> 50   </td>
+            </tr>
+        </table>
+    </body>
+</html> 
