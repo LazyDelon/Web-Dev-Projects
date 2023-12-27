@@ -21,7 +21,7 @@
 
 **1. Open the web page [https://code.visualstudio.com/：](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)** 
 
-&nbsp; <img src="./Images/vscode - download step0.png" alt="Download step0"/>
+&nbsp; <img src="./Images/vscode - download step0.png" alt="Download step0" style="width:600px"/>
 
 **2. Click `Download for Windows` to download the installation file. After the download is complete, open the installation file：** 
 
