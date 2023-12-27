@@ -129,4 +129,11 @@ That is: .classA.classB is not equal to .classA .classB**
 
 ## 🎓 CSS Box Model 
 
-The essence of the CSS box model is a box that wraps each HTML element. It refers to the area occupied by an element in the screen. Its components include: margins, borders, padding and content, and each HTML element is a box model. , the picture of a complete web page is composed of many elements.
+**The essence of the CSS box model is a box that wraps each HTML element. It refers to the area occupied by an element in the screen. Its components include: `margins`, `borders`, `padding` and `content`, and each HTML element is a box model. , the picture of a complete web page is composed of many elements.**
+
+
+Content refers to the real content of the element, such as the real content of text or pictures. We can adjust the `width` and length of the content through width and `height`. Inside the border is the padding. If you increase the padding, the distance between the content and the border will become larger; and outside the border will be the margin. If you want to space it out from other elements The distance needs to be achieved by setting the distance.
+
+In fact, in the history of browsers, there are two kinds of box models, one is `content-box` (W3C standard box model), and the other is `border-box` (IE box model). At present, the box model can be freely set through the `box-sizing` of css. If not set, the default value will be `content-box` (after all, IE has already retired).
+
+The difference between the two is that the two box models have different standards for calculating the width and height of the box. The width and height of the `content-box` box will only contain content, not padding and border; but the box model of `border-box` will include content, padding and border, as shown in the figure below.
