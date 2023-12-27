@@ -149,3 +149,21 @@
 **HTML5 provides the function of API connection, which allows external applications to connect with the data inside the browser, so that the data can be connected and communicated across platforms. For example, adding Google Maps to the web page allows the map to be used directly on the web page. There is no need to enable paging separately, this is what the API does.**
 
 &nbsp; <img src="./Images/HTML5_APIs.svg" alt="HTML5_API"/>
+
+#### 4. HTML5 Connectivity
+
+HTML5 has a more efficient server push technology, which uses server-sent events and two-way communication technology WebSockets to bring a more efficient connection solution.
+
+##### 4-1 What is WebSocket?
+
+WebSocket is a network transmission protocol provided by HTML5 and is one of the ways for the browser (Client) and the server (Server) to exchange data.
+
+The HTTP or HTTPS protocols we are more familiar with are also located in the application layer of the OSI model and are based on the TCP protocol of the transport layer. The biggest difference is that the WebSocket protocol only needs to be connected once to maintain two-way communication without repeatedly sending Requests, so the response is more immediate, thus improving the speed of Web communication.
+
+##### 4-2 Why WebSocket?
+
+* The HTTP protocol can only send requests "one-way" from the client, and cannot be actively sent by the server. The WebSocket protocol allows the server to actively push data to the client, realizing a "two-way communication" mechanism.
+
+* Through HTTP 1.1 persistent connection (keep-alive), it effectively solves the performance problems caused by HTTP polling (Polling) and saves server resources.
+
+* Practical examples: message push, instant chat room, co-editing and other functions
