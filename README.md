@@ -86,17 +86,7 @@
 </html>
 ```
 
-
-
-
-
-
-
-
-
-
-
-
+## 🎓 The composition of HTML elements
 
 
 ```bash
@@ -116,8 +106,18 @@
      Attribute(属性)
 ```
 
+**We can see the basic architecture:**
+
+1. **Start tag: First place angle brackets, that is, the symbols "< >" for greater than and less than, and then put the element name inside, such as `"<div>"` in the above example. The start tag indicates where this element starts.**
+
+2. **End tag: The same as the start tag, except that there is a leading slash "/" in front of the element name. It is easy to understand that adding the closing tag at the end of the content represents the end of this element. When writing HTML, it is easy to forget the final closing tag, so please pay more attention!**
 
 
+3. **Content: The content of this element. In the above example, the content is this text.**
+
+4. **Element: It consists of a start tag, an end tag, and content.**
+
+5. **Attributes: Attribute values can provide more information (of course, this information helps us to edit more effectively and conveniently, and will not be displayed on the web page). Attributes contain attribute names and values. You can use attributes to set the color and alignment of this element. , chart grids, etc.**
 
 ## HTML5 Advantages
 
