@@ -154,6 +154,8 @@
 
 HTML5 has a more efficient server push technology, which uses server-sent events and two-way communication technology WebSockets to bring a more efficient connection solution.
 
+&nbsp; <img src="./Images/WebStock .png" alt="HTML5_API"/>
+
 ##### 4-1 What is WebSocket?
 
 WebSocket is a network transmission protocol provided by HTML5 and is one of the ways for the browser (Client) and the server (Server) to exchange data.
