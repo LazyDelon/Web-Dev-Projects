@@ -2,5 +2,5 @@
 
 ### 🎓 Topics
 
-1. **Introduction to development environment, installation & basic syntax**
+**1. Introduction to development environment, installation & basic syntax**
 2. 
