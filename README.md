@@ -120,6 +120,9 @@
 
 **5. Attributes: Attribute values can provide more information (of course, this information helps us to edit more effectively and conveniently, and will not be displayed on the web page). Attributes contain attribute names and values. You can use attributes to set the color and alignment of this element. , chart grids, etc.**
 
+➤  **資料來源：**[**HTML Page Structure**](https://www.linkedin.com/pulse/html103-html-page-structure-henry-uzor-gmnse/) 
+
+
 ## HTML5 Advantages
 
 #### 1. HTML5 Semantic Layout Section
