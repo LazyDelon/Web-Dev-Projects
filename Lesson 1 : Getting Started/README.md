@@ -18,26 +18,26 @@
 **Our recommendation is to use [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon) as your editor, which also has a built-in [Terminal](https://code.visualstudio.com/docs/terminal/basics/?WT.mc_id=academic-77807-sagibbon). You can download Visual Studio Code [here](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon).**
 
 
-**1.** 
+**1. Open the web page https://code.visualstudio.com/：** 
 
 &nbsp; <img src="./Images/vscode - download step0.png" alt="Download step0"/>
 
-**2.** 
+**2. Click Download for Windows to download the installation file. After the download is complete, open the installation file：** 
 
 &nbsp; <img src="./Images/vscode - download step1.png" alt="Download step1"/>
 
-**3.** 
+**3. Click I agree, then click Next：** 
 
 &nbsp; <img src="./Images/vscode - download step2.png" alt="Download step2"/>
 
-**4.** 
+**4. Click next：** 
 
 &nbsp; <img src="./Images/vscode - download step3.png" alt="Download step3"/>
 
-**5.** 
+**5. Click next：** 
 
 &nbsp; <img src="./Images/vscode - download step4.png" alt="Download step4"/>
 
-**6.** 
+**6. Installing, waiting for installation to complete：** 
 
 &nbsp; <img src="./Images/vscode - download step5.png" alt="Download step5"/>
