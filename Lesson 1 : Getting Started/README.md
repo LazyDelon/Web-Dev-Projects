@@ -20,7 +20,7 @@
 
 **1. Open the web page https://code.visualstudio.com/：** 
 
-&nbsp; <img src="./Images/vscode - download step0.png" alt="Download step0"/>
+&nbsp; <img src="./Images/vscode - download step0.png" alt="Download step0" style="width:60%"/>
 
 **2. Click Download for Windows to download the installation file. After the download is complete, open the installation file：** 
 
