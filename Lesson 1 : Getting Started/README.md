@@ -137,3 +137,5 @@ That is: .classA.classB is not equal to .classA .classB**
 **In fact, in the history of browsers, there are two kinds of box models, one is `content-box` (W3C standard box model), and the other is `border-box` (IE box model). At present, the box model can be freely set through the `box-sizing` of css. If not set, the default value will be `content-box` (after all, IE has already retired).**
 
 **The difference between the two is that the two box models have different standards for calculating the width and height of the box. The width and height of the `content-box` box will only contain content, not padding and border; but the box model of `border-box` will include content, padding and border, as shown in the figure below.**
+
+&nbsp; <img src="./Images/Box Model.png" alt="W3C & IE Box Model"/>
