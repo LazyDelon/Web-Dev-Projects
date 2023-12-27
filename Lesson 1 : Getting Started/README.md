@@ -83,8 +83,8 @@ That is: .classA.classB is not equal to .classA .classB**
 
 
 
-**Post-selectors: [selectors A]~[selectors B]
-The restriction of adjacent selectors is that they must be adjacent to be effective, while the posterior selector is applied to all sibling elements on the same layer.**
+### Post-selectors: [selectors A]~[selectors B]
+**The restriction of adjacent selectors is that they must be adjacent to be effective, while the posterior selector is applied to all sibling elements on the same layer.**
 
 **So if you only want to apply to adjacent elements, use the adjacent selector. If you want to apply to all elements at the same level, you can use the trailing selector.**
 
