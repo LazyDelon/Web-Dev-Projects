@@ -20,24 +20,24 @@
 
 **1.** 
 
-&nbsp; <img src="./Images/vscode - download setp0.png" alt="Download setp0"/>
+&nbsp; <img src="./Images/vscode - download step0.png" alt="Download step0"/>
 
 **2.** 
 
-&nbsp; <img src="./Images/vscode - download setp1.png" alt="Download setp1"/>
+&nbsp; <img src="./Images/vscode - download step1.png" alt="Download step1"/>
 
 **3.** 
 
-&nbsp; <img src="./Images/vscode - download setp2.png" alt="Download setp2"/>
+&nbsp; <img src="./Images/vscode - download step2.png" alt="Download step2"/>
 
 **4.** 
 
-&nbsp; <img src="./Images/vscode - download setp3.png" alt="Download setp3"/>
+&nbsp; <img src="./Images/vscode - download step3.png" alt="Download step3"/>
 
 **5.** 
 
-&nbsp; <img src="./Images/vscode - download setp4.png" alt="Download setp4"/>
+&nbsp; <img src="./Images/vscode - download step4.png" alt="Download step4"/>
 
 **6.** 
 
-&nbsp; <img src="./Images/vscode - download setp5.png" alt="Download setp5"/>
+&nbsp; <img src="./Images/vscode - download step5.png" alt="Download step5"/>
