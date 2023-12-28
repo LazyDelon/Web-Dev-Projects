@@ -1,11 +1,4 @@
 # Web Development for Beginners - A Curriculum
-[![Semantic｜語法更有意義](svg)](位置)
-[![Offline Storage｜離線存取](svg)](位置)
-[![Device Access｜設備兼容性](svg)](位置)
-[![Connectivity｜連線、即時通訊](svg)](位置)
-[![Multimedia｜網頁多媒體](svg)](位置)
-[![3D/ Effects/ Graphics｜3D圖形及特效](svg)](位置)
-[![Integration/ Performance｜效能與整合](svg)](位置)
 
 ## 📣 What is HTML5?
 
