@@ -80,6 +80,7 @@ ___
     </body>
 </html>
 ```
+#### ➤ Result
 
 &nbsp; <img src="./Images/Ex2 Results.png" alt="Ex1 Results"/>
 
@@ -111,6 +112,7 @@ ___
     </body>
 </html>
 ```
+#### ➤ Result
 
 &nbsp; <img src="./Images/Ex3 Results.png" alt="Ex1 Results"/>
 
