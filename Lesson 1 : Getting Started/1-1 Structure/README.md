@@ -1,37 +1,20 @@
 # Web Development - Structure
 
 
-## 🎓 
+## 🎓 Course
 
-|  |	**Course** |
-| ---- | ---- |
-| **button**	| **Defines a clickable button (mostly used with a JavaScript to activate a script)** |
-| **checkbox**	| **Defines a checkbox** |
-| **color**	| **Defines a color picker** |
-| **date**	| **Defines a date control (year, month, day (no time))** |
-| **datetime-local**	| **Defines a date and time control (year, month, day, time (no timezone)** |
-| **email**	| **Defines a field for an e-mail address** |
-| **file**	| **Defines a file-select field and a "Browse" button (for file uploads)** |
-| **hidden**	| **Defines a hidden input field** |
-| **image**	| **Defines an image as the submit button** |
-| **month**	| **Defines a month and year control (no timezone)** |
-| **number**	| **Defines a field for entering a number** |
-| **password**	| **Defines a password field** |
-| **radio**	| **Defines a radio button** |
-| **range**	| **Defines a range control (like a slider control)** |
-| **reset**	| **Defines a reset button** |
-| **search**	| **Defines a text field for entering a search string** |
-| **submit**	| **Defines a submit button** |
-| **tel**	| **Defines a field for entering a telephone number** |
-| **text**	| **Default. Defines a single-line text field** |
-| **time**	| **Defines a control for entering a time (no timezone)** |
-| **url**	| **Defines a field for entering a URL** |
-| **week**	| **Defines a week and year control (no timezone)** |
+|      |	**Course** |	**File** |
+| ---- | ---- | ---- |
+| **01**	| **Basic CSS Demo** | **Ex1.html + Ex1.css** |
+| **02**	| **Defines a checkbox** | **Ex2.html** |
+| **03**	| **Defines a color picker** | **Ex3.html** |
+
+
 
 
 #### 🎓 Basic CSS Demo
 
-```HTML
+```Ex1.html
 <!DOCTYPE HTML>
 
 <html>
@@ -52,7 +35,7 @@
 </html>
 ```
 
-```CSS
+```Ex1.css
 p {
     color: red;
 }
@@ -68,12 +51,12 @@ h1 {
 
 &nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
 
-- - -
+___
 
 
 #### 🎓 Practise Answers
 
-```HTML
+```Ex2.html
 <!DOCTYPE HTML>
 
 <html>
@@ -100,12 +83,12 @@ h1 {
 
 &nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
 
-- - -
+___
 
 
 #### 🎓 Heading Size
 
-```HTML
+```Ex3.html
 <!DOCTYPE HTML>
 
 <html>
@@ -131,4 +114,4 @@ h1 {
 
 &nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
 
-- - -
+___
