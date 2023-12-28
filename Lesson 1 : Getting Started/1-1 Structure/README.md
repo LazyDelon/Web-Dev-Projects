@@ -68,6 +68,7 @@ h1 {
 
 &nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
 
+- - -
 
 
 #### 🎓 Practise Answers
@@ -99,6 +100,7 @@ h1 {
 
 &nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
 
+- - -
 
 
 #### 🎓 Heading Size
@@ -129,3 +131,4 @@ h1 {
 
 &nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
 
+- - -
