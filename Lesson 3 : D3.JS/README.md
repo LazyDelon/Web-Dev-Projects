@@ -24,3 +24,16 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 * **Choosing D3, you can develop any imaginable chart in your mind, giving designers a lot of freedom in design.**
 
 * **D3 is relatively low-level, but once you master the design method and its simplicity, it is more handy than other tools. The following figure shows the difference between D3 and other visualization tools:**
+
+
+## 📣 What is SVG
+
+**SVG, which stands for Scalable Vector Graphics, is a graphics format used to describe two-dimensional vector graphics. It is an open standard developed by W3C.**
+
+**SVG can use XML format to define graphics. Except for versions before IE8, most browsers support SVG and can embed SVG text directly into HTML for display. SVG has the following features:**
+
+* **SVG draws vector graphics, so there will be no distortion when the image is enlarged.**
+
+* **Based on XML, JavaScript event handlers can be added to each element.**
+
+* **Each graphic is considered an object, and if you change the properties of the object, the graphic will also change.**
