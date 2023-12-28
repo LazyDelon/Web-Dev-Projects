@@ -5,7 +5,7 @@
 
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
-| **01**	| **xxx** | **Ex35.html** |
+| **01**	| **CSS margins** | **Ex35.html** |
 | **02**	| **xxx** | **Ex36.html** |
 | **03**	| **xxx** | **Ex37.html** |
 | **04**	| **xxx** | **Ex38.html** |
@@ -13,7 +13,19 @@
 
 
 
-#### 🎓 xxx
+#### 🎓 CSS margins
+
+* All the margin properties can have the following values:
+
+➤ auto - the browser calculates the margin
+
+➤ Length - specifies a margin in px, pt, cm, etc.
+
+➤ % - specifies a margin in % of the width of the containing element.
+
+inherit - specifies that the margin should be inherited from the parent element.
+![image](https://github.com/LazyDelon/Web-Dev-Projects/assets/153699726/70f34113-2a2c-4322-bca8-688af499f976)
+
 
 ```Ex35.html
 
