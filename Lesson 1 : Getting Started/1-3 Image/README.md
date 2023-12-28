@@ -52,7 +52,52 @@ ___
 #### 🎓 Practise & Answers
 
 ```Ex20.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+    
+        <meta charset="utf-8">
+        
+        <title> Image Maps </title>
+        
+        <style>
+            
+            .y {
+                outline-color: yellow;
+            }
+            
+            .g {
+                outline-color: green;
+            }
+            
+            .b {
+                outline-color: blue;
+            }
+        </style>
+    </head>
+    
+    <body>
+    
+        <h2> Image Maps </h2>
+        
+        <p>
+            Click on the Phone, the Computer, the cup of Coffee
+            to go to a new page and read more about the topic：
+        </p>
+        
+        <img src="Picture/Computer.png" alt="Workplace"
+             usemap="#workmap" width="400" height="350">
+         
+        <map name="workmap">
+            
+            <area class="y" shape="rect" coords="32, 40, 275, 325" href="Other/Computer.html">
+            <area class="g" shape="rect" coords="290, 160, 335, 230" href="Other/Computer.html">
+            <area class="b" shape="circle" coords="340, 280, 45" href="Other/Coffee.html">
+        </map>
+    </body>
+</html>
 ```
 #### ➤ Result
 
@@ -64,7 +109,29 @@ ___
 #### 🎓 Heading Size
 
 ```Ex21.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Background Image </title>
+        
+        <style>
+            
+            body {
+                background-size: 250px;
+            }
+        </style>
+    </head>
+
+    <body style="background-image: url(Picture/Totoro.jpg);">
+        
+        
+    </body>
+</html>
 ```
 #### ➤ Result
 
