@@ -14,7 +14,7 @@
 
 #### 🎓 Basic CSS Demo
 
-```Ex1.html
+```Ex01.html
 <!DOCTYPE HTML>
 
 <html>
@@ -35,7 +35,7 @@
 </html>
 ```
 
-```Ex1.css
+```Ex01.css
 p {
     color: red;
 }
@@ -56,7 +56,7 @@ ___
 
 #### 🎓 Practise & Answers
 
-```Ex2.html
+```Ex02.html
 <!DOCTYPE HTML>
 
 <html>
@@ -89,7 +89,7 @@ ___
 
 #### 🎓 Heading Size
 
-```Ex3.html
+```Ex03.html
 <!DOCTYPE HTML>
 
 <html>
