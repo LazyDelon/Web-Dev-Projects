@@ -29,7 +29,7 @@
 | **week**	| **Defines a week and year control (no timezone)** |
 
 
-### 🎓 Basic CSS Demo
+#### 🎓 Basic CSS Demo
 
 ```HTML
 <!DOCTYPE HTML>
@@ -65,3 +65,65 @@ h1 {
 ```
 
 &nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
+
+
+
+#### 🎓 Practise Answers
+
+```HTML
+<!DOCTYPE HTML>
+
+<html>
+    
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> My CSS Experiment </title>
+        <link rel="stylesheet" href="Ex02.css">
+    </head>
+    
+    <body>
+        
+        <h1> Hello Everyone! </h1>
+        
+        <p> This is a paragraph. </p> <br>
+        
+        <span> &ensp;&ensp; &bull; This is </span> <br>
+        <span> &ensp;&ensp; &bull; A list  </span>
+    </body>
+</html>
+```
+
+&nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
+
+
+
+#### 🎓 Heading Size
+
+```HTML
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> HTML5 class sample program </title>
+    </head>
+    
+    <body>
+        
+        <h1> Heading 1 </h1>
+        <h2> Heading 2 </h2>
+        <h3> Heading 3 </h3>
+        <h4> Heading 4 </h4>
+        <h5> Heading 5 </h5>
+        <h6> Heading 6 </h6>
+    </body>
+</html>
+```
+
+&nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
+
