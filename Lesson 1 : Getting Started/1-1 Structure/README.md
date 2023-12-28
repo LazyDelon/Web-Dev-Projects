@@ -49,7 +49,7 @@ h1 {
 
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
+&nbsp; <img src="./Images/Ex01 Results.png" alt="Ex01 Results"/>
 
 ___
 
@@ -82,7 +82,7 @@ ___
 ```
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex2 Results.png" alt="Ex1 Results"/>
+&nbsp; <img src="./Images/Ex02 Results.png" alt="Ex02 Results"/>
 
 ___
 
@@ -114,6 +114,6 @@ ___
 ```
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex3 Results.png" alt="Ex1 Results"/>
+&nbsp; <img src="./Images/Ex03 Results.png" alt="Ex03 Results"/>
 
 ___
