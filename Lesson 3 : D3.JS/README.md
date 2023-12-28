@@ -1,6 +1,9 @@
 # Web Development for Beginners - D3.JS
 
-## 📣 What is D3?
+## 📣 D3.JS Overview
+
+
+### 🎓 What is D3?
 
 
 * **The full name of D3 is `Data-Driven Documents`, you know it is a Data-driven documentation.**
@@ -16,7 +19,7 @@
 
 
 
-## 📣 Why use D3.JS
+### 🎓 Why use D3.JS
 
 **There are now some chart libraries from Open sources, such as Echarts,
 HighCharts, G2.js, etc. So what is the difference between D3 and these chart libraries?**
@@ -32,7 +35,7 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 
 
 
-## 📣 What is SVG
+### 🎓 What is SVG
 
 **SVG, which stands for Scalable Vector Graphics, is a graphics format used to describe two-dimensional vector graphics. It is an open standard developed by W3C.**
 
@@ -46,7 +49,7 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 
 
 
-## 📣 What knowledge is needed to learn D3
+### 🎓 What knowledge is needed to learn D3
 
 **What knowledge is required?**
   
@@ -60,7 +63,7 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
   
 * **SVG: Scalable vector graphics for drawing visual graphics**
 
-## 🎓 HyperText Markup Language (HTML)
+### 🎓 HyperText Markup Language (HTML)
 
 **As we know, HTML is used to structure the content of the webpage. It is stored in a text file with the extension ".html". For example,**
 
@@ -82,7 +85,7 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 </html>
 ```
 
-## 🎓 Document Object Model (DOM)
+### 🎓 Document Object Model (DOM)
 
 **The full name of DOM is Document Object Model. The Chinese translation is Document Object Model. It looks very abstract, but in fact it defines each tag in an HTML document, including text, pictures, etc., as objects, and these objects will eventually form a [**Tree structure**](https://hackmd.io/@qhrUT5qfQ9uYar_RFMX-PQ/Skp8Q1Eed)   , there is a schematic diagram below for reference.**
 
@@ -90,8 +93,26 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 &nbsp; <img src="./Images/D3.JS DOM Tree.png" alt="DOM Tree"/>
 
 
-## 🎓 Way 1: down
+### 🎓 Way 1: down
 
 **D3.js is an open-source library and the source code of thelibrary is freely available on the web at [**https://d3js.org**](https://d3js.org/)  website. Visit the D3.js website and download the latest version of D3.js (d3.zip). As of now, the latest version is v6.**
 
 **After the download is complete, unzip the file and look for d3.min.js. This is the minified version of the D3.js source code. Copy the d3.min.js file and paste it into your project's root folder or any other folder, where you want to keep all the library files. Include the d3.min.js file in your HTML page as shown below.**
+
+
+## 📣 A brief introduction to JavaScript
+
+### 🎓 JavaScript
+
+* **JavaScript is a mature dynamic programming language. When applied to HTML documents, it can provide dynamic interactive functions for web pages.**
+
+* **JavaScript is a programming language that helps you add interactive features to your website. For example, a game might respond to, or dynamically change, content when a button is pressed or data is entered into a form.
+format, and display animations, etc.**
+
+* **You can do many things with JavaScript. You can start with simple features, such as tickers, photo albums, dynamic layouts, response button clicks, etc. After you become familiar with this programming language, you can even create applications such as games, 2D plane and three-dimensional images, database systems, etc.!**
+
+* **JavaScript itself is very simple yet flexible.**
+
+* **JavaScript combines HTML and CSS to build front-end web display and interactive architecture**
+
+
