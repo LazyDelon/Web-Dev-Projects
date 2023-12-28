@@ -6,9 +6,8 @@
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
 | **01**	| **Img** | **Ex19.html** |
-| **02**	| **Image Size** | **Ex20.html** |
-| **03**	| **Image Maps** | **Ex21.html** |
-
+| **02**	| **Image Maps** | **Ex20.html** |
+| **03**	| **Background Image in body** | **Ex21.html** |
 
 
 
@@ -49,7 +48,21 @@
 ___
 
 
-#### 🎓 Image Size
+#### 🎓 Image Maps
+
+The Areas
+Then, add the clickable areas.
+
+A clickable area is defined using an `<area>` element.
+
+Shape
+You must define the shape of the clickable area, and you can choose one of these values:
+
+`rect` - defines a rectangular region
+`circle` - defines a circular region
+`poly` - defines a polygonal region
+`default` - defines the entire region
+You must also define some coordinates to be able to place the clickable area onto the image. 
 
 ```Ex20.html
 <!DOCTYPE HTML>
@@ -103,10 +116,13 @@ ___
 
 &nbsp; <img src="./Images/Ex20 Results.png" alt="Ex20 Results"/>
 
+
+➤  **資料來源：** [**HTML Image Maps**](https://www.w3schools.com/html/html_images_imagemap.asp)   
+
 ___
 
 
-#### 🎓 Image Maps
+#### 🎓 Background Image in `<body>`
 ```Ex21.html
 <!DOCTYPE HTML>
 
