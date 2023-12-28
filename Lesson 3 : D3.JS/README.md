@@ -14,6 +14,8 @@
 * **D3 simplifies the complex steps of visualization into a few simple functions. Engineers only need to input a few simple data to convert it into various graphics.**
 
 
+
+
 ## 📣 Why use D3.js
 
 **There are now some chart libraries from Open sources, such as Echarts,
@@ -24,6 +26,8 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 * **Choosing D3, you can develop any imaginable chart in your mind, giving designers a lot of freedom in design.**
 
 * **D3 is relatively low-level, but once you master the design method and its simplicity, it is more handy than other tools. The following figure shows the difference between D3 and other visualization tools:**
+
+
 
 
 ## 📣 What is SVG
@@ -37,3 +41,22 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 * **Based on XML, JavaScript event handlers can be added to each element.**
 
 * **Each graphic is considered an object, and if you change the properties of the object, the graphic will also change.**
+
+
+
+## 📣 What knowledge is needed to learn D3
+
+* **What knowledge is required?**
+  
+* **HTML: used to configure web content**
+  
+* **CSS: used to style web pages**
+  
+* **JavaScript: an interpreter language (Interpreter) used to set the behavior of web pages**
+
+* **DOM: Document Object Model, used to modify the content and structure of files. (when you Write the html code for your page and it will be converted into a hierarchical structure on the browser. Each tag in html is converted into an element in the DOM with a parent-child hierarchy.)**
+  
+* **SVG: Scalable vector graphics for drawing visual graphics**
+
+
+
