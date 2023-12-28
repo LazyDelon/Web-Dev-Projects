@@ -155,7 +155,54 @@ ___
 #### 🎓 Radio Button
 
 ```Ex07.html
+<!DOCTYPE HTML>
 
+<html>
+    
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> My HTML5 Experiment </title>
+        <link rel="stylesheet" href="Ex07.css">
+    </head>
+    
+    <body>
+        
+        <h2> HTML Forms </h2>
+        
+        <form action="/action_page.php">
+            
+            First Name： <input type="text" name="FirstName" value="Mickey"> <br>
+            Last Name：  <input type="text" name="LastName" value="Mouse">   <br>
+            Your Student ID： <input type="text" name="ID" value="4080E007"> <br>
+            
+            <h2> Radio Button </h2>
+            
+            <input type="radio" name="dept" value="IS department"> IS department <br>
+            <input type="radio" name="dept" value="IM department"> IM department <br>
+            <input type="radio" name="dept" value="IC department"> IC department <br><br>
+            
+            <input type="submit" value="Submit">
+        </form>
+        
+        <p>
+            If you click the "Submit" Button, the form-data
+            will be sent to a page called "/action_page.php".
+        </p>
+    </body>
+</html>
+```
+
+```Ex07.css
+p {
+    color: blue;
+}
+
+input {
+    color: blue;
+    background-color: orange;
+}
 ```
 #### ➤ Result
 
@@ -166,7 +213,40 @@ ___
 #### 🎓 Alert Action
 
 ```Ex08.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Alert action </title>
+    </head>
+
+    <body>
+    
+        <h2> The Select Element </h2>
+        
+        <p> The select element defines a drop-down list： </p>
+        
+        <form action="/action_page.php">
+        
+            <select name="cars" size="3">
+                
+                <option value="car1"> BMW   </option>
+                <option value="car2"> Audi  </option>
+                <option value="car3"> Benz  </option>
+                <option value="car4"> Honda </option>
+                <option value="car5"> Mazda </option>
+            </select>
+            
+            <br><br>
+            
+            <input type="button" onclick="alert('Hello HTML5!')" value="Click Me!">
+        </form>
+    </body>
+</html>
 ```
 #### ➤ Result
 
@@ -177,7 +257,43 @@ ___
 #### 🎓 Date type 
 
 ```Ex09.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Date Type </title>
+    </head> 
+    
+    <body>
+        
+        <h2> The Select Element </h2>
+        
+        <p> The select element defines a drop-down list： </p>
+        
+        <form action="/action_page.php">
+        
+            <select name="cars" size="3">
+            
+                <option value="car1"> BMW   </option>
+                <option value="car2"> Audi  </option>
+                <option value="car3"> Benz  </option>
+                <option value="car4"> Honda </option>
+                <option value="car5"> Mazda </option>
+            </select>
+            
+            <br><br>
+            
+            <h2> Date Field </h2>
+            
+            <input type="date" name="bday">
+            <input type="button" onclick="alert('Hello HTML5!')" value="Click Me!">
+        </form>
+    </body>
+</html>
 ```
 #### ➤ Result
 
@@ -188,10 +304,134 @@ ___
 #### 🎓 Range
 
 ```Ex10.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Range </title>
+    </head> 
+    
+    <body>
+        
+        <h2> The Select Element </h2>
+        
+        <p> The select element defines a drop-down list： </p>
+        
+        <form action="/action_page.php">
+        
+            <select name="cars" size="3">
+            
+                <option value="car1"> BMW   </option>
+                <option value="car2"> Audi  </option>
+                <option value="car3"> Benz  </option>
+                <option value="car4"> Honda </option>
+                <option value="car5"> Mazda </option>
+            </select>
+            
+            <br><br>
+            
+            <h2> Range Field </h2>
+            
+            <input type="range" name="points" min="0" max="100"> <br>
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
 ```
 #### ➤ Result
 
 &nbsp; <img src="./Images/Ex10 Results.png" alt="Ex10 Results"/>
+
+___
+
+#### 🎓 xxxx
+
+```Ex11.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex11 Results.png" alt="Ex11 Results"/>
+
+___
+
+#### 🎓 xxxx
+
+```Ex12.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex12 Results.png" alt="Ex12 Results"/>
+
+___
+
+#### 🎓 xxxx
+
+```Ex13.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex13 Results.png" alt="Ex13 Results"/>
+
+___
+
+#### 🎓 xxxx
+
+```Ex14.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex14 Results.png" alt="Ex14 Results"/>
+
+___
+
+#### 🎓 xxxx
+
+```Ex15.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex15 Results.png" alt="Ex15 Results"/>
+
+___
+
+#### 🎓 xxxx
+
+```Ex16.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex16 Results.png" alt="Ex16 Results"/>
+
+___
+
+#### 🎓 xxxx
+
+```Ex17.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex17 Results.png" alt="Ex17 Results"/>
+
+___
+
+#### 🎓 xxxx
+
+```Ex18.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex18 Results.png" alt="Ex18 Results"/>
 
 ___
