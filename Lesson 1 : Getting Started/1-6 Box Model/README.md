@@ -1,5 +1,4 @@
-![image](https://github.com/LazyDelon/Web-Dev-Projects/assets/153699726/98a7a9ee-f40c-4d36-93c0-6b99324a3b85)# Web Development - Box Model
-
+# Web Development - Box Model
 
 ## 🎓 Course
 
