@@ -5,13 +5,13 @@
 
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
-| **01**	| **Basic CSS Demo** | **Ex04.html** |
-| **02**	| **Basic CSS Demo** | **Ex04.html** |
-| **03**	| **Basic CSS Demo** | **Ex04.html** |
-| **04**	| **Basic CSS Demo** | **Ex04.html** |
-| **05**	| **Basic CSS Demo** | **Ex04.html** |
-| **06**	| **Basic CSS Demo** | **Ex04.html** |
-| **07**	| **Basic CSS Demo** | **Ex04.html** |
+| **01**	| **HTML Forms** | **Ex04.html** |
+| **02**	| **The `<select>` Element** | **Ex05.html** |
+| **03**	| **Visible Values** | **Ex06.html** |
+| **04**	| **Radio Button** | **Ex07.html** |
+| **05**	| **Alert Action** | **Ex08.html** |
+| **06**	| **Date type** | **Ex09.html** |
+| **07**	| **Range** | **Ex10.html** |
 | **08**	| **Basic CSS Demo** | **Ex04.html** |
 | **09**	| **Basic CSS Demo** | **Ex04.html** |
 | **10**	| **Basic CSS Demo** | **Ex04.html** |
