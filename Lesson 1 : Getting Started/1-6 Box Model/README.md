@@ -5,66 +5,13 @@
 
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
-| **01**	| **xxx** | **Ex31.html** |
-| **02**	| **xxx** | **Ex32.html** |
-| **03**	| **xxx** | **Ex33.html** |
-| **04**	| **xxx** | **Ex34.html** |
-| **05**	| **xxx** | **Ex35.html** |
-| **06**	| **xxx** | **Ex36.html** |
-| **07**	| **xxx** | **Ex37.html** |
-| **08**	| **xxx** | **Ex38.html** |
-| **09**	| **xxx** | **Ex39.html** |
+| **01**	| **xxx** | **Ex35.html** |
+| **02**	| **xxx** | **Ex36.html** |
+| **03**	| **xxx** | **Ex37.html** |
+| **04**	| **xxx** | **Ex38.html** |
+| **05**	| **xxx** | **Ex39.html** |
 
 
-
-#### 🎓 xxx
-
-```Ex31.html
-
-```
-
-
-#### ➤ Result
-
-&nbsp; <img src="./Images/Ex31 Results.png" alt="Ex31 Results"/>
-
-___
-
-
-#### 🎓 xxx
-
-```Ex32.html
-
-```
-#### ➤ Result
-
-&nbsp; <img src="./Images/Ex32 Results.png" alt="Ex32 Results"/>
-
-___
-
-
-#### 🎓 xxx
-
-```Ex33.html
-
-```
-#### ➤ Result
-
-&nbsp; <img src="./Images/Ex33 Results.png" alt="Ex33 Results"/>
-
-___
-
-
-#### 🎓 xxx
-
-```Ex34.html
-
-```
-#### ➤ Result
-
-&nbsp; <img src="./Images/Ex34 Results.png" alt="Ex34 Results"/>
-
-___
 
 #### 🎓 xxx
 
