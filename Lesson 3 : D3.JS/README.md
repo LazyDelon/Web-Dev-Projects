@@ -88,3 +88,10 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 
 
 &nbsp; <img src="./Images/D3.JS DOM Tree.png" alt="DOM Tree"/>
+
+
+## 🎓 Way 1: down
+
+**D3.js is an open-source library and the source code of thelibrary is freely available on the web at [**https://d3js.org**](https://d3js.org/)  website. Visit the D3.js website and download the latest version of D3.js (d3.zip). As of now, the latest version is v6.**
+
+**After the download is complete, unzip the file and look for d3.min.js. This is the minified version of the D3.js source code. Copy the d3.min.js file and paste it into your project's root folder or any other folder, where you want to keep all the library files. Include the d3.min.js file in your HTML page as shown below.**
