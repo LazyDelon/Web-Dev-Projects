@@ -8,14 +8,14 @@
 | ---- | ---- | ---- |
 | **01**	| **Selection by Tag** | **Ex03.html** |
 | **02**	| **Selection by Class name** | **Ex04.html** |
-| **03**	| **xxx** | **Ex05.html** |
-| **04**	| **xxx** | **Ex06.html** |
-| **05**	| **xxx** | **Ex07.html** |
-| **06**	| **xxx** | **Ex08.html** |
-| **07**	| **xxx** | **Ex09.html** |
-| **08**	| **xxx** | **Ex10.html** |
-| **09**	| **xxx** | **Ex11.html** |
-| **10**	| **xxx** | **Ex12.html** |
+| **03**	| **Chain syntax: append().text()** | **Ex05.html** |
+| **04**	| **B attr() Method** | **Ex06.html** |
+| **05**	| **C style() Method** | **Ex07.html** |
+| **06**	| **enter()、update() and exit()** | **Ex08.html** |
+| **07**	| **Review: Drawing a line and shapes** | **Ex09.html** |
+| **08**	| **SVG Using D3.js to do the same thing** | **Ex10.html** |
+| **09**	| **Rectangle Using D3.js** | **Ex11.html** |
+| **10**	| **Circle Using D3.js** | **Ex12.html** |
 
 
 
@@ -117,14 +117,7 @@ it using the select() method as specified below.**
 
 
 
-
-
-
-
-
-
-
-#### 🎓 xxx
+#### 🎓 Chain syntax: append().text()
 
 ```Ex05.html
 <!DOCTYPE HTML>
@@ -158,7 +151,9 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 B attr() Method
+
+**The attr() method is used to add or update the attribute of the selected elements.**
 
 ```Ex06.html
 <!DOCTYPE HTML>
@@ -192,7 +187,9 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 C style() Method
+
+**The style() method is used to set the style property of the selected elements.**
 
 ```Ex07.html
 <!DOCTYPE HTML>
@@ -225,7 +222,7 @@ ___
 ___
 
 
-#### 🎓 xxx
+#### 🎓 enter()、update() and exit()
 
 ```Ex08.html
 <!DOCTYPE HTML>
@@ -280,7 +277,7 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 Review: Drawing a line and shapes
 
 ```Ex09.html
 <!DOCTYPE HTML>
@@ -326,7 +323,7 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 SVG Using D3.js to do the same thing 
 
 ```Ex10.html
 <!DOCTYPE HTML>
@@ -373,7 +370,7 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 Rectangle Using D3.js
 
 ```Ex11.html
 <!DOCTYPE HTML>
@@ -423,7 +420,7 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 Circle Using D3.js
 
 ```Ex12.html
 <!DOCTYPE HTML>
