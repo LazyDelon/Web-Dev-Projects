@@ -46,7 +46,7 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 
 ## 📣 What knowledge is needed to learn D3
 
-* **What knowledge is required?**
+**What knowledge is required?**
   
 * **HTML: used to configure web content**
   
@@ -58,5 +58,24 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
   
 * **SVG: Scalable vector graphics for drawing visual graphics**
 
+## 🎓 HyperText Markup Language (HTML)
+
+**As we know, HTML is used to structure the content of the webpage. It is stored in a text file with the extension ".html". For example,**
 
 
+```html
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        <title> 文檔標題 </title>
+    </head>
+    
+    <body>
+        
+        文檔內容...
+    </body>
+</html>
+```
