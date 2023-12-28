@@ -1,9 +1,9 @@
 # Web Development - Structure
 
 
-## 🎓 Basic CSS Demo
+## 🎓 
 
-|  |	**Description** |
+|  |	**Course** |
 | ---- | ---- |
 | **button**	| **Defines a clickable button (mostly used with a JavaScript to activate a script)** |
 | **checkbox**	| **Defines a checkbox** |
@@ -27,3 +27,40 @@
 | **time**	| **Defines a control for entering a time (no timezone)** |
 | **url**	| **Defines a field for entering a URL** |
 | **week**	| **Defines a week and year control (no timezone)** |
+
+
+### 🎓 Basic CSS Demo
+
+```HTML
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+        
+        <title> My CSS Experiment </title>
+        <link rel="stylesheet" href="Ex01.css">
+    </head>
+
+    <body>
+
+        <h1> I am html5 student. </h1>
+        <p> This is My First CSS Example. </p>
+    </body>
+</html>
+```
+
+```CSS
+p {
+    color: red;
+}
+
+h1 {
+    color: blue;
+    border: 2px solid black;
+    background-color: orange;
+}
+```
+
