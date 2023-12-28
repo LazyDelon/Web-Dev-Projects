@@ -12,11 +12,14 @@
 | **05**	| **Alert Action** | **Ex08.html** |
 | **06**	| **Date type** | **Ex09.html** |
 | **07**	| **Range** | **Ex10.html** |
-| **08**	| **Basic CSS Demo** | **Ex04.html** |
-| **09**	| **Basic CSS Demo** | **Ex04.html** |
-| **10**	| **Basic CSS Demo** | **Ex04.html** |
-| **11**	| **Basic CSS Demo** | **Ex04.html** |
-| **12**	| **Basic CSS Demo** | **Ex04.html** |
+| **08**	| **DataList Element** | **Ex11.html** |
+| **09**	| **input + output Element** | **Ex12.html** |
+| **10**	| **Attribute：readonly** | **Ex13.html** |
+| **11**	| **Attribute：disabled** | **Ex14.html** |
+| **12**	| **Attribute：height & width** | **Ex15.html** |
+| **13**	| **Attribute：min & max** | **Ex16.html** |
+| **14**	| **Attribute：multiple** | **Ex17.html** |
+| **15**	| **Attribute：pattern** | **Ex18.html** |
 
 
 
@@ -348,10 +351,50 @@ ___
 
 ___
 
-#### 🎓 xxxx
+#### 🎓 `<DataList>` Element
 
 ```Ex11.html
+<!DOCTYPE HTML>
 
+<html>
+    
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> DataList Element </title>
+    </head>
+
+    <body>
+        
+        <h2> The DataList Element </h2>
+        
+        <p>
+            The datalist element specifies a list of pre-defined options 
+            for an input element：
+        </p>
+        
+        <form action="/action_page.php">
+            
+            <input list="browsers" name="browser">
+            
+            <datalist id="browsers">
+                
+                <option value="Opera">
+                <option value="Chrome">
+                <option value="Safari">
+                <option value="Firefox">
+                <option value="Internet Explorer">
+            </datalist>
+            
+            <br><br>
+            
+            <input type="submit">
+        </form>
+        
+        <p> <b>Note</b> The datalist tag is not supported in Safari or IE9. </p>
+    </body>
+</html>
 ```
 #### ➤ Result
 
@@ -359,10 +402,53 @@ ___
 
 ___
 
-#### 🎓 xxxx
+#### 🎓 `<input>` + `<output>` Element
 
 ```Ex12.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head> 
+        
+        <meta charset="utf-8">
+        
+        <title> input + output </title>
+    </head>
+    
+    <body>
+        
+        <h2> The Output Element </h2>
+        
+        <p>
+            The output element represents the result of a calculation.
+        </p>
+        
+        <form action="/action_page.php"
+              oninput="y.value = parseInt(a.value) + parseInt(b.value)">
+
+            0 <input type="range" id="a" name="a" value="50" oninput="myFunction()"> 100 
+            
+            <br><br> ➜ <nobr id="range"> </nobr> &ensp;
+            
+            + &ensp; <input type="number" id="b" value="50"> &ensp; =
+            
+            <output name="y" for="range b"> </output> <br>
+        </form>
+        
+        <script>
+            function myFunction() {
+
+                var x = document.getElementById("a").value;
+                document.getElementById("range").innerHTML = x;
+            }
+        </script> 
+        
+      
+        <p> <strong>Note</strong> The output element. </p>
+    </body>
+    
+</html>
 ```
 #### ➤ Result
 
@@ -370,10 +456,41 @@ ___
 
 ___
 
-#### 🎓 xxxx
+#### 🎓 Attribute：readonly
 
 ```Ex13.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Attribute：readonly </title>
+    </head>
+
+    <body>
+        
+        <h2> The readonly Attribute </h2>
+        
+        <p>
+            The readonly attribute specifies that the
+            input filed is read only (cannot be changed)：
+        </p>
+        
+        <form action="/action_page.php">
+        
+            First Name： <br>
+            <input type="text" name="FirstName" value="John" readonly> <br>
+            
+            Last Name： <br>
+            <input type="text" name="LastName"> <br><br>
+            
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
 ```
 #### ➤ Result
 
@@ -381,10 +498,40 @@ ___
 
 ___
 
-#### 🎓 xxxx
+#### 🎓 Attribute：disabled
 
 ```Ex14.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Attribute：disabled </title>
+    </head>
+
+    <body>
+        
+        <h2> The disabled Attribute </h2>
+        
+        <p>
+            The disabled attribute specifies that the input filed is disabled：
+        </p>
+        
+        <form action="/action_page.php">
+        
+            First Name： <br>
+            <input type="text" name="FirstName" value="John" disabled> <br>
+            
+            Last Name： <br>
+            <input type="text" name="LastName"> <br><br>
+            
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
 ```
 #### ➤ Result
 
@@ -392,10 +539,48 @@ ___
 
 ___
 
-#### 🎓 xxxx
+#### 🎓 Attribute：height & width
 
 ```Ex15.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Attribute：height & width </title>
+    </head>
+    
+    <body>
+        
+        <h2> The height and width Attributes </h2>
+        
+        <p>
+            The height and width attribute specify the
+            height and width of an input type="image" element.
+        </p>
+        
+        <form action="/action_page.php">
+            
+            First Name： <br>
+            <input type="text" name="FirstName"> <br><br>
+            
+            Last Name：  <br>
+            <input type="text" name="LastName"> <br>
+            
+            <input type="image" src="Picture/submit.png" alt="Submit" width="100" height="90">
+        </form>
+        
+        <p>
+            <b> Note： </b>
+            
+            The input type="image" sends the X and Y 
+            coordinates of the click that activated the image button.
+        </p>
+    </body>
+</html>
 ```
 #### ➤ Result
 
@@ -403,10 +588,49 @@ ___
 
 ___
 
-#### 🎓 xxxx
+#### 🎓 Attribute：min & max
 
 ```Ex16.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Attributes：min & max </title>
+    </head>
+    
+    <body>
+        
+        <h2> The min and max Attributes </h2>
+        
+        <p>
+            The min and max attribute specify the 
+            minuimum and maximum values for an input element.
+        </p>
+    
+        <form action="/action_page.php">
+            
+            Enter a date before 1980-01-01：
+            <input type="date" name="bday" max="1979-12-31"> 
+            
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+            
+            Enter a date after 2000-01-01：
+            <input type="date" name="bday" min="2000-01-02"> 
+            
+            <br><br><br><br><br><br><br><br><br><br>
+            <br><br><br><br><br><br><br><br><br><br>
+            
+            Quantity (Between 1 to 5)：
+            <input type="number" name="Quantity" min="1" max="5">
+            
+            <input type="submit">
+        </form>
+    </body>
+</html>
 ```
 #### ➤ Result
 
@@ -414,10 +638,37 @@ ___
 
 ___
 
-#### 🎓 xxxx
+#### 🎓 Attribute：multiple
 
 ```Ex17.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Attribute：multiple </title>
+    </head>
+
+    <body>
+        
+        <h2> The multiple Attributes </h2>
+        
+        <p>
+            The multiple attribute specifies that the 
+            user is allowed to enter more than one value in the input element.
+        </p>
+        
+        <form action="/action_page.php">
+            
+            Select Images：<input type="file" name="img" multiple>
+            
+            <input type="submit">
+        </form>
+    </body>
+</html>
 ```
 #### ➤ Result
 
@@ -425,10 +676,39 @@ ___
 
 ___
 
-#### 🎓 xxxx
+#### 🎓 Attribute：pattern
 
 ```Ex18.html
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title> Attribute：pattern </title>
+    </head>
+    
+    <body>
+        
+        <h2> The pattern Attributes </h2>
+        
+        <p>
+            The pattern attribute specifies a regular expression
+            that the input element's value is checked against.
+        </p>
+        
+        <form action="/action_page.php"> 
+            
+            Country Code： 
+            <input type="text" name="Country_Code" pattern="[A-Za-z]{3}"
+                   title="Three letter country code">
+            
+            <input type="submit">
+        </form>
+    </body>
+</html>
 ```
 #### ➤ Result
 
