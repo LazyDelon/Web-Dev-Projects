@@ -49,7 +49,7 @@
 ___
 
 
-#### 🎓 Practise & Answers
+#### 🎓 Image Size
 
 ```Ex20.html
 <!DOCTYPE HTML>
@@ -106,8 +106,7 @@ ___
 ___
 
 
-#### 🎓 Heading Size
-
+#### 🎓 Image Maps
 ```Ex21.html
 <!DOCTYPE HTML>
 
