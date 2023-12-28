@@ -64,6 +64,8 @@ h1 {
 }
 ```
 
+#### ➤ Result
+
 &nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
 
 
