@@ -61,7 +61,7 @@
 
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
+&nbsp; <img src="./Images/Ex04 Results.png" alt="Ex04 Results"/>
 
 ___
 
@@ -103,7 +103,7 @@ ___
 ```
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex2 Results.png" alt="Ex1 Results"/>
+&nbsp; <img src="./Images/Ex05 Results.png" alt="Ex05 Results"/>
 
 ___
 
@@ -147,7 +147,51 @@ ___
 ```
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex3 Results.png" alt="Ex1 Results"/>
+&nbsp; <img src="./Images/Ex06 Results.png" alt="Ex06 Results"/>
 
 ___
 
+
+#### 🎓 Radio Button
+
+```Ex07.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex07 Results.png" alt="Ex07 Results"/>
+
+___
+
+#### 🎓 Alert Action
+
+```Ex08.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex08 Results.png" alt="Ex08 Results"/>
+
+___
+
+#### 🎓 Date type 
+
+```Ex09.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex09 Results.png" alt="Ex09 Results"/>
+
+___
+
+#### 🎓 Range
+
+```Ex10.html
+
+```
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex10 Results.png" alt="Ex10 Results"/>
+
+___
