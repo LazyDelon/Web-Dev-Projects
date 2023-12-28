@@ -64,3 +64,4 @@ h1 {
 }
 ```
 
+&nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
