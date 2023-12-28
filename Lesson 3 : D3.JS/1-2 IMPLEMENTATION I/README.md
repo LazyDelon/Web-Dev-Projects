@@ -6,8 +6,8 @@
 
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
-| **01**	| **xxx** | **Ex03.html** |
-| **02**	| **xxx** | **Ex04.html** |
+| **01**	| **Selection by Tag** | **Ex03.html** |
+| **02**	| **Selection by Class name** | **Ex04.html** |
 | **03**	| **xxx** | **Ex05.html** |
 | **04**	| **xxx** | **Ex06.html** |
 | **05**	| **xxx** | **Ex07.html** |
@@ -20,7 +20,11 @@
 
 
 
-#### 🎓 xxx
+#### 🎓 Selection by Tag
+
+**You can select HTML elements using its TAG. The following syntax is used to select the “div” tag elements**
+
+
 
 ```Ex03.html
 <!DOCTYPE HTML>
@@ -53,7 +57,12 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 Selection by Class name
+
+**HTML elements styled using CSS classes can be selected by using
+the following syntax.**
+
+
 
 ```Ex04.html
 <!DOCTYPE HTML>
@@ -84,6 +93,35 @@ ___
 &nbsp; <img src="./Images/Ex04 Results.png" alt="Ex04 Results"/>
 
 ___
+
+
+#### 🎓 Selection by ID
+
+**Every element in a HTML page should have a unique ID. We can use this unique ID of an element to access 
+it using the select() method as specified below.**
+
+
+```Selection by ID 
+<body>
+    <div class="hello">
+        Hello World !
+    </div>
+
+    <script>
+
+        alert(d3.select("#hello").text());
+    </script>
+</body>
+```
+
+
+
+
+
+
+
+
+
 
 
 #### 🎓 xxx
