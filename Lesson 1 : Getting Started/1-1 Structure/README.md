@@ -5,9 +5,9 @@
 
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
-| **01**	| **Basic CSS Demo** | **Ex1.html + Ex1.css** |
-| **02**	| **Practise & Answers** | **Ex2.html** |
-| **03**	| **Heading Size** | **Ex3.html** |
+| **01**	| **Basic CSS Demo** | **Ex01.html + Ex01.css** |
+| **02**	| **Practise & Answers** | **Ex02.html** |
+| **03**	| **Heading Size** | **Ex03.html** |
 
 
 
