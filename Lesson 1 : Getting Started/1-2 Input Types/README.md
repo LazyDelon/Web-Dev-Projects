@@ -1,4 +1,4 @@
-# Web Development - Structure
+# Web Development - Input Types
 
 
 ## 🎓 Course
