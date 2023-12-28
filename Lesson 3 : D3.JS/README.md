@@ -65,7 +65,7 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 **As we know, HTML is used to structure the content of the webpage. It is stored in a text file with the extension ".html". For example,**
 
 
-```html
+```HTML
 <!DOCTYPE HTML>
 
 <html>
