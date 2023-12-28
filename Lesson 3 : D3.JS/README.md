@@ -16,7 +16,7 @@
 
 
 
-## 📣 Why use D3.js
+## 📣 Why use D3.JS
 
 **There are now some chart libraries from Open sources, such as Echarts,
 HighCharts, G2.js, etc. So what is the difference between D3 and these chart libraries?**
@@ -27,6 +27,8 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
 
 * **D3 is relatively low-level, but once you master the design method and its simplicity, it is more handy than other tools. The following figure shows the difference between D3 and other visualization tools:**
 
+
+&nbsp; <img src="./Images/D3.JS visualization tools.png" alt="Visualization Tools"/>
 
 
 
@@ -79,3 +81,10 @@ HighCharts, G2.js, etc. So what is the difference between D3 and these chart lib
     </body>
 </html>
 ```
+
+## 🎓 Document Object Model (DOM)
+
+**The full name of DOM is Document Object Model. The Chinese translation is Document Object Model. It looks very abstract, but in fact it defines each tag in an HTML document, including text, pictures, etc., as objects, and these objects will eventually form a [**Tree structure**](https://hackmd.io/@qhrUT5qfQ9uYar_RFMX-PQ/Skp8Q1Eed)   , there is a schematic diagram below for reference.**
+
+
+&nbsp; <img src="./Images/D3.JS DOM Tree.png" alt="DOM Tree"/>
