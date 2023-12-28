@@ -116,3 +116,52 @@ format, and display animations, etc.**
 * **JavaScript combines HTML and CSS to build front-end web display and interactive architecture**
 
 
+## 📣 Overview and Installation
+
+### 🎓 What is D3.js?
+
+* **D3.js is a JavaScript library used to create interactive visualizations in the browser.**
+
+* **The D3.js library allows us to manipulate elements of a webpage in the context of a data set. 
+These elements can be HTML, SVG, or Canvas elements and can be introduced, removed, 
+or edited according to the contents of the data set. It is a library for manipulating the DOM objects.**
+
+* **D3.js can be a valuable aid in data exploration, it gives you control over your data's representation and lets you add interactivity.**
+
+
+### 🎓 Why Do We Need D3.js?
+
+* **D3.js is one of the premier framework when compare to other libraries. This is because it works on the web and its
+data visualizations are par excellence. Another reason it has worked so well is owing to its flexibility.**
+
+* **Since it works seamlessly with the existing web technologies and can manipulate any part of the
+document object model, it is as flexible as the Client Side Web Technology Stack (HTML, CSS, and SVG). It has a
+great community support and is easier to learn.**
+
+
+
+### 🎓 D3.js Benefits
+
+**D3.js is an open source project and works without any plugin. 
+It requires very less code and comes up with the following benefits −**
+
+* **Great data visualization.**
+* 
+* **It is modular. You can download a small piece of D3.js,
+    which you want to use. No need to load the whole library every time.**
+
+* **Easy to build a charting component.**
+* 
+* **DOM manipulation.**
+
+  
+### 🎓 Requirements before we starts
+
+**Before we start, we need the following components −**
+
+* **D3.js library**
+* **Editor**
+* **Web browser**
+* **Web server**
+  
+**3 ways to run D3 under different scenarios**
