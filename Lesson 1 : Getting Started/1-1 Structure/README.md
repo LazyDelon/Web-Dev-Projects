@@ -81,7 +81,7 @@ ___
 </html>
 ```
 
-&nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
+&nbsp; <img src="./Images/Ex2 Results.png" alt="Ex1 Results"/>
 
 ___
 
@@ -112,6 +112,6 @@ ___
 </html>
 ```
 
-&nbsp; <img src="./Images/Ex1 Results.png" alt="Ex1 Results"/>
+&nbsp; <img src="./Images/Ex3 Results.png" alt="Ex1 Results"/>
 
 ___
