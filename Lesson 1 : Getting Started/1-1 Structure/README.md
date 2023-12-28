@@ -6,8 +6,8 @@
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
 | **01**	| **Basic CSS Demo** | **Ex1.html + Ex1.css** |
-| **02**	| **Defines a checkbox** | **Ex2.html** |
-| **03**	| **Defines a color picker** | **Ex3.html** |
+| **02**	| **Practise & Answers** | **Ex2.html** |
+| **03**	| **Heading Size** | **Ex3.html** |
 
 
 
@@ -54,7 +54,7 @@ h1 {
 ___
 
 
-#### 🎓 Practise Answers
+#### 🎓 Practise & Answers
 
 ```Ex2.html
 <!DOCTYPE HTML>
