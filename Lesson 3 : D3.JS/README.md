@@ -165,3 +165,36 @@ It requires very less code and comes up with the following benefits −**
 * **Web server**
   
 **3 ways to run D3 under different scenarios**
+
+
+
+
+### 🎓 Way 1. Download
+
+**After the download is complete, unzip the file and look for d3.min.js. 
+This is the minified version of the D3.js source code. 
+Copy the d3.min.js file and paste it into your project's root folder or any other folder, 
+where you want to keep all the library files. Include the d3.min.js file in your HTML page as shown below.**
+
+```D3.JS
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        <script src="./d3.v7.min.js"></script>
+    </head>
+    
+    <body>
+
+        <script>
+
+            // write your d3 code here...
+        </script>
+    </body>
+</html>
+```
+
+**D3.js is a JavaScript code, so we should write all our D3 code within "script" tag. 
+We may need to manipulate the existing DOM elements, so it is advisable to write the D3 code just before the end of the "body" tag.**
