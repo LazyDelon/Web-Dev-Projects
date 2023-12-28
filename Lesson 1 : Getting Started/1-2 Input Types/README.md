@@ -6,7 +6,7 @@
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
 | **01**	| **HTML Forms** | **Ex04.html** |
-| **02**	| **The `<select>` Element** | **Ex05.html** |
+| **02**	| **The select Element** | **Ex05.html** |
 | **03**	| **Visible Values** | **Ex06.html** |
 | **04**	| **Radio Button** | **Ex07.html** |
 | **05**	| **Alert Action** | **Ex08.html** |
