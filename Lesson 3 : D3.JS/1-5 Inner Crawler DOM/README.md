@@ -1,6 +1,6 @@
 
 
-# D3.JS Development for Beginners - JAVASCRIPT
+# D3.JS Development for Beginners - Inner Crawler DOM
 
 ## 🎓 Course
 
