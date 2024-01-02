@@ -665,7 +665,7 @@ ___
 
 #### 📋 foodstockprice.csv
 
-'''foodstockprice.csv
+```foodstockprice.csv
 year,value
 2011,45
 2012,47
@@ -673,11 +673,11 @@ year,value
 2014,70
 2015,75
 2016,78
-'''
+```
 
 **📋 Step 1: Start with creating the SVG and defining the scales for our bar chart as shown below.**
 
-'''
+```
 <body>
 
         <svg width="600" height="500"> </svg>
@@ -703,4 +703,151 @@ year,value
                        .attr("transform", "translate(" + 100 + "," + 100 + ")");
          </script> 
 </body>        
-'''
+```
+
+**📋 Step 2: Let's load our data from the CSV file and add axes to the SVG.**
+```
+<body>
+
+        <svg width="600" height="500"> </svg>
+
+        <script>
+
+            var svg = d3.select("svg"),
+                margin = 200,
+                width = svg.attr("width") - margin,
+                height = svg.attr("height") - margin;
+
+            svg.append("text")
+               .attr("transform", "translate(100, 0)")
+               .attr("x", 50)
+               .attr("y", 50)
+               .attr("font-size", "24px")
+               .text("Foods Stock Price")
+
+            var Scale_X = d3.scaleBand().range([0, width]).padding(0.4);
+            var Scale_Y = d3.scaleLinear().range([height, 0]);
+
+            var g = svg.append("g")
+                       .attr("transform", "translate(" + 100 + "," + 100 + ")");
+        
+            
+            d3.csv("foodstockprice.csv", function(error, data) {
+
+                if (error) {
+                    throw error;
+                }
+
+                Scale_X.domain(data.map(function(d) { return d.year; })); 
+                Scale_Y.domain([0, d3.max(data, function(d) { return d.value; })]); 
+
+                g.append("g")
+                 .attr("transform", "translate(0, " + height + ")")
+                 .call(d3.axisBottom(Scale_X))
+                 .append("text")
+                 .attr("y", height - 250)
+                 .attr("x", width - 100)
+                 .attr("text-anchor", "end")
+                 .attr("stroke", "black")
+                 .text("Year");
+
+                        
+                g.append("g")
+                 .call(d3.axisLeft(Scale_Y).tickFormat(function(d){ return "$" + d; }).ticks(10))
+                 .append("text")
+                 .attr("transform", "rotate(-90)")
+                 .attr("y", 6)
+                 .attr("dy", "-5.1em")
+                 .attr("text-anchor", "end")
+                 .attr("stroke", "black")
+                 .text("Stock Price");
+        </script> 
+</body>    
+```
+
+
+**📋 Step 3: Next, we want to create bars corresponding to the data values.**
+
+**Since this is a vertical bar graph, the chart width will be fixed and the bar width will be variable depending on the dataset size. We will calculate the bar width by diving the chart width by the dataset size.**
+
+**Example: Bar Chart in D3**
+
+```
+<body>
+
+        <svg width="600" height="500"> </svg>
+
+        <script>
+
+            var svg = d3.select("svg"),
+                margin = 200,
+                width = svg.attr("width") - margin,
+                height = svg.attr("height") - margin;
+
+            svg.append("text")
+               .attr("transform", "translate(100, 0)")
+               .attr("x", 50)
+               .attr("y", 50)
+               .attr("font-size", "24px")
+               .text("Foods Stock Price")
+
+            var Scale_X = d3.scaleBand().range([0, width]).padding(0.4);
+            var Scale_Y = d3.scaleLinear().range([height, 0]);
+
+            var g = svg.append("g")
+                       .attr("transform", "translate(" + 100 + "," + 100 + ")");
+        
+            
+            d3.csv("foodstockprice.csv", function(error, data) {
+
+                if (error) {
+                    throw error;
+                }
+
+                Scale_X.domain(data.map(function(d) { return d.year; })); 
+                Scale_Y.domain([0, d3.max(data, function(d) { return d.value; })]); 
+
+                g.append("g")
+                 .attr("transform", "translate(0, " + height + ")")
+                 .call(d3.axisBottom(Scale_X))
+                 .append("text")
+                 .attr("y", height - 250)
+                 .attr("x", width - 100)
+                 .attr("text-anchor", "end")
+                 .attr("stroke", "black")
+                 .text("Year");
+
+                        
+                g.append("g")
+                 .call(d3.axisLeft(Scale_Y).tickFormat(function(d){ return "$" + d; }).ticks(10))
+                 .append("text")
+                 .attr("transform", "rotate(-90)")
+                 .attr("y", 6)
+                 .attr("dy", "-5.1em")
+                 .attr("text-anchor", "end")
+                 .attr("stroke", "black")
+                 .text("Stock Price");
+
+                g.selectAll(".bar")
+                 .data(data)
+                 .enter().append("rect")
+                 .attr("class", "bar")
+                 .on("mouseover", onMouseOver)
+                 .on("mouseout", onMouseOut)
+                 .attr("x", function(d) { return Scale_X(d.year); })
+                 .attr("y", function(d) { return Scale_Y(d.value); })
+                 .attr("width", Scale_X.bandwidth())
+                 .transition()
+                 .ease(d3.easeLinear)
+                 .duration(400)
+                 .delay( function(d, i) {
+                    return i * 50;
+                 })
+                 .attr("height", function(d) {
+                    return height - Scale_Y(d.value); 
+                 });
+            });
+        </script> 
+</body>    
+```
+➤  **資料來源：** [**How do I create a bar chart using D3?**](https://www.quora.com/How-do-I-create-a-bar-chart-using-D3)   
