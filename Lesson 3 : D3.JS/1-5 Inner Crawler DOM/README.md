@@ -7,11 +7,11 @@
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
 | **01**	| **A. Finding HTML Element by Id** | **Ex36.html** |
-| **02**	| **xxx** | **Ex37.html** |
-| **03**	| **xxx** | **Ex38.html** |
-| **04**	| **xxx** | **Ex39.html** |
-| **05**	| **xxx** | **Ex40.html** |
-| **06**	| **xxx** | **Ex41.html** |
+| **02**	| **B. Finding HTML Elements by Tag Name** | **Ex37.html** |
+| **03**	| **C. Finding HTML Elements by Class Name** | **Ex38.html** |
+| **04**	| **D. Finding HTML Elements by CSS Selectors** | **Ex39.html** |
+| **05**	| **E. Finding HTML Elements by HTML Object Collections** | **Ex40.html** |
+| **06**	| **Create the Full Animation** | **Ex41.html** |
 
 
 
