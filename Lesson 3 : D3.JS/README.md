@@ -1,4 +1,4 @@
-# Web Development for Beginners - D3.JS
+# D3.JS Development for Beginners - Courses
 
 ## 📣 D3.JS Overview
 
