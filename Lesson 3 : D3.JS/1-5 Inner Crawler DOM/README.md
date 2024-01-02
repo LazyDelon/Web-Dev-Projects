@@ -6,7 +6,7 @@
 
 |      |	**Course** |	**File** |
 | ---- | ---- | ---- |
-| **01**	| **xxx** | **Ex36.html** |
+| **01**	| **A. Finding HTML Element by Id** | **Ex36.html** |
 | **02**	| **xxx** | **Ex37.html** |
 | **03**	| **xxx** | **Ex38.html** |
 | **04**	| **xxx** | **Ex39.html** |
@@ -45,7 +45,7 @@
 
 
 
-#### 🎓 Find HTML elements
+#### 📋 Find HTML elements
 
 * **This page teaches you how to find and access HTML elements in HTML pages. Typically, you want to use JavaScript to manipulate HTML elements.**
 
@@ -59,11 +59,38 @@
 
 
 
-#### 🎓 xxx
+#### 🎓 A. Finding HTML Element by Id
 
+* **The easiest way to find an HTML element in the DOM, is by using the element id.**
 
 ```Ex36.html
+<!DOCTYPE HTML>
 
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+    </head>
+    
+    <body>
+        
+        <h2> Finding HTML Elements by Id </h2>
+
+        <p id="intro"> Hello World！ </p>
+        
+        <p> This example demonstrates the <b> getElementsById </b> method. </p>
+
+        <p id="demo"> </p>
+
+        <script>
+
+            var MyElement = document.getElementById("intro");
+
+            document.getElementById("demo").innerHTML = 
+            "The text from the intro paragraph is " + MyElement.innerHTML;
+        </script>
+    </body>
+</html>
 ```
 
 
@@ -76,10 +103,40 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 B. Finding HTML Elements by Tag Name
+
+* **This example finds all <p> elements:**
 
 ```Ex37.html
+<!DOCTYPE HTML>
 
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+    </head>
+    
+    <body>
+        
+        <h2> Finding HTML Elements by Tag Name </h2>
+
+        <p> Index 0 </p>
+
+        <p> Hello World！ </p>
+        
+        <p> This example demonstrates the <b> getElementsByTagName </b> method. </p>
+
+        <p id="demo"> </p>
+
+        <script>
+
+            var MyElement = document.getElementsByTagName("p");
+
+            document.getElementById("demo").innerHTML = 
+            "The text in Second paragraph (index 1) is：" + MyElement[1].innerHTML;
+        </script>
+    </body>
+</html>
 ```
 
 
@@ -92,10 +149,41 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 C. Finding HTML Elements by Class Name
+
+* **If you want to find all HTML elements with the same class name, use getElementsByClassName(). This example returns a list of all elements with class="intro".**
 
 ```Ex38.html
+<!DOCTYPE HTML>
 
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+    </head>
+    
+    <body>
+        
+        <h2> Finding HTML Elements by Class Name </h2>
+
+        <p> Hello World！ </p>
+
+        <p class="intro"> The DOM is very useful. </p>
+        
+        <p class="intro"> This example demonstrates the 
+        <b> getElementsByClassName </b> method. </p>
+
+        <p id="demo"> </p>
+
+        <script>
+
+            var MyElement = document.getElementsByClassName("intro");
+
+            document.getElementById("demo").innerHTML = 
+            'The first paragraph (index 0) with class="intro"：' + MyElement[0].innerHTML;
+        </script>
+    </body>
+</html>
 ```
 
 
@@ -108,11 +196,43 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 D. Finding HTML Elements by CSS Selectors
 
+* **If you want to find all HTML elements that match a specified CSS selector
+(id, class names, types, attributes, values of attributes, etc),
+use the querySelectorAll() method. This example returns a list of all <p> elements with class="intro".**
 
 ```Ex39.html
+<!DOCTYPE HTML>
 
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+    </head>
+    
+    <body>
+        
+        <h2> Finding HTML Elements by Query Selector </h2>
+
+        <p> Hello World！ </p>
+
+        <p class="intro"> The DOM is very useful. </p>
+        
+        <p class="intro"> This example demonstrates the 
+        <b> querySelector </b> method. </p>
+
+        <p id="demo"> </p>
+
+        <script>
+
+            var MyElement = document.querySelectorAll("p.intro");
+
+            document.getElementById("demo").innerHTML = 
+            'The first paragraph (index 0) with class="intro"：' + MyElement[0].innerHTML;
+        </script>
+    </body>
+</html>
 ```
 
 
@@ -125,11 +245,58 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 E. Finding HTML Elements by HTML Object Collections
+
+* **This example finds the form element with id="frm1", in the forms collection, and displays all element values:**
 
 
 ```Ex40.html
+<!DOCTYPE HTML>
 
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+    </head>
+    
+    <body>
+        
+        <h2> Finding HTML Elements Using document.forms </h2>
+
+        <form id="form1" action="/action_page.php">
+
+            FirstName： 
+            <input type="text" name="FName" value="Lazy"> <br>
+
+            LastName：
+            <input type="text" name="LName" value="Delon"> <br><br>
+
+            <input type="submit" value="Submit">
+        </form>
+
+        <p> Click "Try it" to display the value of each element in the form. </p>
+
+        <button onclick="MyFunction()"> Try it </button>
+
+        <p id="demo"> </p>
+
+        <script>
+
+            function MyFunction() {
+
+                var i;
+                var text = "";
+                var Form1 = document.forms["form1"];
+
+                for(i = 0; i < Form1.length; i++) {
+                    text += Form1.elements[i].value + "<br>";
+                }
+
+                document.getElementById("demo").innerHTML = text;
+            }
+        </script>
+    </body>
+</html>
 ```
 
 
@@ -143,11 +310,75 @@ ___
 
 
 
-#### 🎓 xxx
+#### 🎓 Create the Full Animation
 
 
 ```Ex41.html
+<!DOCTYPE HTML>
 
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+
+        <style>
+
+            #container {
+              width: 400px;
+              height: 400px;
+              position: relative;
+              background: yellow;
+            }
+            #animate {
+              width: 50px;
+              height: 50px;
+              position: absolute;
+              background-color: red;
+            }
+        </style>
+    </head>
+    
+    <body>
+        
+        <p> <button onclick="MyMove()"> Click Me </button> </p>
+
+        <div id="container">
+
+            <div id="animate"> </div>
+        </div>
+
+        <script>
+
+            var id = null;
+            
+            function MyMove() {
+
+                var pos = 0;
+                var elem = document.getElementById("animate");
+
+                clearInterval(id);
+
+                id = setInterval(frame, 5);
+
+                function frame() {
+
+                    if(pos == 350) {
+
+                        clearInterval(id);
+                    }
+
+                    else {
+                        
+                        pos++;
+                        
+                        elem.style.top = pos + "px";
+                        elem.style.left = pos + "px";
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>
 ```
 
 
