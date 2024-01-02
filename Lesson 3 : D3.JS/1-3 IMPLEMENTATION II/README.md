@@ -145,9 +145,42 @@ ___
 
 * **You can pass two types of value to the data() function, an array of values (number or object) or a function of data.**
 
-```Ex15.html
+➤  **資料來源：** [**Data Binding in D3**](https://www.tutorialsteacher.com/d3js/data-binding-in-d3js)   
 
+&nbsp; <img src="./Images/Data Binding in D3.png" alt="Differences"/>
+
+```Ex15.html
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        <script src="./d3.v7.min.js"></script>
+    </head>
+    
+    <body>
+        
+        <p> </p>
+        <p> </p>
+        <p> </p>
+
+        <script>
+
+            var MyData = ['John', 'Doe', 'LazyDelon'];
+
+            var p = d3.select("body")
+                      .selectAll("p")
+                      .data(MyData)
+                      .text( function(d, i) {
+                        return i + "：" + d;
+                    });
+        </script>   
+    </body>
+</html>
 ```
+
+* **ps .data(myData) - the data() function then binds our data array 'myData' to the selection returned from the previous selection. Since our selection has single p element, the data() function will bind the first value from our data array to the <p> element.**
 
 
 #### ➤ Result
