@@ -1,5 +1,5 @@
 
-# Web Development for Beginners - IMPLEMENTATION II
+# D3.JS Development for Beginners - IMPLEMENTATION II
 
 ## 🎓 Course
 
