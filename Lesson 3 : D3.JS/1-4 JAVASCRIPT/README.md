@@ -16,12 +16,17 @@
 | **08**	| **xxx** | **Ex28.html** |
 | **09**	| **xxx** | **Ex29.html** |
 | **10**	| **xxx** | **Ex30.html** |
+| **11**	| **xxx** | **Ex31.html** |
+| **12**	| **xxx** | **Ex32.html** |
+| **13**	| **xxx** | **Ex33.html** |
+| **14**	| **xxx** | **Ex34.html** |
+| **15**	| **xxx** | **Ex35.html** |
 
 
 #### 🎓 xxx
 
 
-```Ex13.html
+```Ex21.html
 
 
 ```
@@ -29,7 +34,7 @@
 
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex13 Results.png" alt="Ex13 Results"/>
+&nbsp; <img src="./Images/Ex21 Results.png" alt="Ex21 Results"/>
 
 ___
 
@@ -38,31 +43,14 @@ ___
 
 #### 🎓 xxx
 
-```Ex14.html
+```Ex22.html
 
 ```
 
 
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex14 Results.png" alt="Ex14 Results"/>
-
-___
-
-
-
-
-#### 🎓 xxx
-
-
-```Ex15.html
-
-```
-
-
-#### ➤ Result
-
-&nbsp; <img src="./Images/Ex15 Results.png" alt="Ex15 Results"/>
+&nbsp; <img src="./Images/Ex22 Results.png" alt="Ex22 Results"/>
 
 ___
 
@@ -72,14 +60,14 @@ ___
 #### 🎓 xxx
 
 
-```Ex16.html
+```Ex23.html
 
 ```
 
 
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex16 Results.png" alt="Ex16 Results"/>
+&nbsp; <img src="./Images/Ex23 Results.png" alt="Ex23 Results"/>
 
 ___
 
@@ -89,14 +77,31 @@ ___
 #### 🎓 xxx
 
 
-```Ex17.html
+```Ex24.html
 
 ```
 
 
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex17 Results.png" alt="Ex17 Results"/>
+&nbsp; <img src="./Images/Ex24 Results.png" alt="Ex24 Results"/>
+
+___
+
+
+
+
+#### 🎓 xxx
+
+
+```Ex25.html
+
+```
+
+
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex25 Results.png" alt="Ex25 Results"/>
 
 ___
 
@@ -105,14 +110,14 @@ ___
 
 
 
-```Ex18.html
+```Ex26.html
 
 ```
 
 
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex18 Results.png" alt="Ex18 Results"/>
+&nbsp; <img src="./Images/Ex26 Results.png" alt="Ex26 Results"/>
 
 ___
 
@@ -122,14 +127,136 @@ ___
 
 #### 🎓 xxx
 
-```Ex19.html
+```Ex27.html
 
 ```
 
 
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex19 Results.png" alt="Ex19 Results"/>
+&nbsp; <img src="./Images/Ex27 Results.png" alt="Ex27 Results"/>
+
+___
+
+
+
+
+
+
+#### 🎓 xxx
+
+```Ex28.html
+
+```
+
+
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex28 Results.png" alt="Ex28 Results"/>
+
+___
+
+
+
+
+#### 🎓 xxx
+
+```Ex29.html
+
+```
+
+
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex29 Results.png" alt="Ex29 Results"/>
+
+___
+
+
+
+
+#### 🎓 xxx
+
+```Ex30.html
+
+```
+
+
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex30 Results.png" alt="Ex30 Results"/>
+
+___
+
+
+
+
+
+#### 🎓 xxx
+
+```Ex31.html
+
+```
+
+
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex31 Results.png" alt="Ex31 Results"/>
+
+___
+
+
+
+
+
+
+#### 🎓 xxx
+
+```Ex32.html
+
+```
+
+
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex32 Results.png" alt="Ex32 Results"/>
+
+___
+
+
+
+
+
+
+#### 🎓 xxx
+
+```Ex33.html
+
+```
+
+
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex33 Results.png" alt="Ex33 Results"/>
+
+___
+
+
+
+
+
+
+
+#### 🎓 xxx
+
+```Ex34.html
+
+```
+
+
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex34 Results.png" alt="Ex34 Results"/>
 
 ___
 
@@ -142,15 +269,13 @@ ___
 
 #### 🎓 xxx
 
-```Ex20.html
+```Ex35.html
 
 ```
 
 
 #### ➤ Result
 
-&nbsp; <img src="./Images/Ex20 Results.png" alt="Ex20 Results"/>
+&nbsp; <img src="./Images/Ex35 Results.png" alt="Ex35 Results"/>
 
 ___
-
-
