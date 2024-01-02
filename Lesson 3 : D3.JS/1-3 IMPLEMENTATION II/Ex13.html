@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        <script src="./d3.v7.min.js"></script>
+    </head>
+    
+    <body>
+        
+        <p> Error： This is Error. </p>
+        <p> Warning： This is Warning. </p>
+
+        <script>
+
+            d3.selectAll("p").style("color", function(d, i){
+
+                var text = this.innerText;
+
+                if (text.indexOf("Error") >= 0){
+
+                    return "red";
+                }
+
+                else if (text.indexOf("Warning") >= 0) {
+                    
+                    return "orange";
+                }
+            });
+        </script>
+    </body>
+</html>
+

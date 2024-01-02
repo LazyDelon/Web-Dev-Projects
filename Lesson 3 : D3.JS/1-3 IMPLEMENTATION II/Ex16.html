@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        <script src="./d3.v7.min.js"></script>
+
+        <style>
+
+            svg rect {
+                fill: orange;
+            }
+
+            svg text {
+                fill: white;
+                text-anchor: end;
+                font: 10px sans-serif;
+            }
+        </style>
+    </head>
+    
+    <body>
+        
+        <svg class="chart" width="420" height="120">
+
+            <g transform="translate(0, 0)">
+                <rect width="50" height="20"> </rect>
+                <text x="40" y="9.5" dy=".35em"> 5 </text>
+            </g>
+
+            <g transform="translate(0, 25)">
+                <rect width="100" height="20"> </rect>
+                <text x="90" y="9.5" dy=".35em"> 10 </text>
+            </g>
+
+            <g transform="translate(0, 50)">
+                <rect width="120" height="20"> </rect>
+                <text x="110" y="9.5" dy=".35em"> 12 </text>
+            </g>
+        </svg>
+    </body>
+</html>
+
