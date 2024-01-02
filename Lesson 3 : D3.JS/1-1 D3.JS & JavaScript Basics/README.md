@@ -1,4 +1,4 @@
-# Web Development for Beginners - D3.JS & JavaScript Basics
+# D3.JS Development for Beginners - D3.JS & JavaScript Basics
 
 
 ## 🎓 Course
