@@ -11,7 +11,7 @@
 | **03**	| **xxx** | **Ex38.html** |
 | **04**	| **xxx** | **Ex39.html** |
 | **05**	| **xxx** | **Ex40.html** |
-
+| **06**	| **xxx** | **Ex41.html** |
 
 
 #### 🎓 xxx
@@ -95,3 +95,20 @@ ___
 
 ___
 
+
+
+
+#### 🎓 xxx
+
+
+```Ex41.html
+
+```
+
+
+
+#### ➤ Result
+
+&nbsp; <img src="./Images/Ex41 Results.png" alt="Ex41 Results"/>
+
+___
