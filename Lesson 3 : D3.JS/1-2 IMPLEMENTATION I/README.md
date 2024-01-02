@@ -1,6 +1,5 @@
 
-# Web Development - Structure
-
+# Web Development for Beginners - D3.JS
 
 ## 🎓 Course
 
