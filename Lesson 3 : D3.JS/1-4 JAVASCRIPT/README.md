@@ -295,6 +295,46 @@ ___
 
 
 
+#### 🎓 JavaScript Types are Dynamic
+
+* **JavaScript has dynamic types. This means that the same variable can be used to hold different data types:**
+
+```
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+    </head>
+    
+    <body>
+        
+        <h2> JavaScript Data Types </h2>
+
+        <p> 
+            JavaScript has dynamic types. 
+            This means that the same variable 
+            can be used to hold different data types： 
+        </p>
+
+        <p id="demo"> </p>
+
+        <script>
+
+            var x;      //Now x is underfined
+             
+            x = 5;      //Now x is a Number
+
+            x = "John"; //Now x is a String
+        </script>
+    </body>
+</html>
+```
+
+
+
+
 #### 🎓 JavaScript Identifiers
 
 **All JavaScript variables must be identified with unique names.
