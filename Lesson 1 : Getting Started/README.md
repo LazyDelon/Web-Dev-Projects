@@ -45,9 +45,9 @@
 
 ## 🎓 CSS Selectors
 
-In CSS, selectors are patterns used to select the element(s) you want to style.
+**In CSS, selectors are patterns used to select the element(s) you want to style.**
 
-Selectors, whether used in CSS or JavaScript, enable targeting HTML elements based on their type, attributes, current states, and even position in the DOM. Combinators allow you to be more precise when selecting elements by enabling selecting elements based on their relationship to other elements.
+**Selectors, whether used in CSS or JavaScript, enable targeting HTML elements based on their type, attributes, current states, and even position in the DOM. Combinators allow you to be more precise when selecting elements by enabling selecting elements based on their relationship to other elements.**
 
 
 
